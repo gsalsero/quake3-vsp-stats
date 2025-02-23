@@ -3,6 +3,7 @@ FROM php:7.4.33-apache
 
 # supervisor web gui would be available on port 9001
 # EXPOSE 9001
+ARG INSTALL_XDEBUG
 
 ENV LOGTYPE q3a-osp
 ENV SERVER_TITLE HERE GOES YOUR SERVER TITLE
@@ -18,14 +19,16 @@ ENV CHECK_UNIQUE_GAMEID 1
 ENV TABLE_PREFIX vsp_
 ENV DB_HOSTNAME db
 ENV DB_NAME vsp
+
 # ENV VSP_WEB_PASSWORD
 # ENV DB_USERNAME
 # ENV DB_PASSWORD
 
 RUN docker-php-ext-install mysqli \
-#  && pecl install xdebug-2.9.8 \
-#  && docker-php-ext-enable xdebug \
-#  && mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini" \
+  && if [ "$INSTALL_XDEBUG" = "true" ]; then \
+    pecl install xdebug-2.9.8 && docker-php-ext-enable xdebug; \
+  fi \
+ && mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini" \
  && apt-get update && apt-get -y install \
     cron \
     supervisor \
