@@ -34,7 +34,7 @@ RUN docker-php-ext-install mysqli \
   && if [ "$INSTALL_XDEBUG" = "true" ]; then \
     pecl install xdebug-2.9.8 && docker-php-ext-enable xdebug; \
   fi \
- && mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini" \
+#  && mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini" \
  && apt-get update && apt-get -y install \
     cron \
     supervisor \
