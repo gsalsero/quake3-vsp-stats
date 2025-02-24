@@ -23,7 +23,7 @@ function parseFileListing(array $fileLines): array
         "number" => $matches[2],
         "user" => $matches[3],
         "group" => $matches[4],
-        "size" => $matches[5],
+        "size" => (int)$matches[5],
         "date" => date("m-d", strtotime($matches[6])),
         "time" => $matches[7],
         "name" => $matches[9],
