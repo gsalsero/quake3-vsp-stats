@@ -1,0 +1,25 @@
+<!-- filepath: /workspace/phpunit.xml -->
+<phpunit bootstrap="vendor/autoload.php"
+         colors="true"
+         stopOnFailure="false">
+    <testsuites>
+        <testsuite name="My Test Suite">
+            <directory>./tests</directory>
+        </testsuite>
+    </testsuites>
+    <coverage processUncoveredFiles="true">
+        <include>
+            <!-- <directory>./src</directory> -->
+            <!-- <file>./vsp-client.php</file> -->
+            <file>./vsp-q3a.php</file>
+            <!-- <file>./vsp.php</file> -->
+            <!-- <file>./vutil.php</file> -->
+            <!-- <file>./xp103_commmpat.inc.php</file> -->
+        </include>
+        <report>
+            <clover outputFile="coverage/clover.xml"/>
+            <html outputDirectory="coverage/html"/>
+            <!-- <text/> -->
+        </report>
+    </coverage>
+</phpunit>

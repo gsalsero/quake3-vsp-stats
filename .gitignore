@@ -1,2 +1,4 @@
 .env
-vendor
+.phpunit.result.cache
+/coverage
+/vendor

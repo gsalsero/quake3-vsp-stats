@@ -40,6 +40,8 @@ tasks:
 
   test:unit:
     desc: Run PHPUnit tests
+    env:
+      XDEBUG_MODE: coverage
     cmds:
       - vendor/bin/phpunit
 

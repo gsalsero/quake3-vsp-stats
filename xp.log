@@ -1,0 +1,2850 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\25\g_gametype\0\mapname\test_bigbox\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\15\version\Q3 1.32e macos-aarch64 Jan 26 2025\Uptime\0:00:00\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  0:00 ServerTime: 20250225201641 20:16:41 (25 Feb 2025)
+  0:00 TeamName: 1 ^1RED
+  0:00 TeamName: 2 ^4BLUE
+  0:00 Warmup:
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \bot_minplayers\1\fraglimit\20\g_gametype\0\mapname\arenagate\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\15\version\Q3 1.32e macos-aarch64 Jan 26 2025\Uptime\0:00:00\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  0:00 ServerTime: 20250225201641 20:16:41 (25 Feb 2025)
+  0:00 TeamName: 1 ^1RED
+  0:00 TeamName: 2 ^4BLUE
+  0:00 Warmup:
+  0:07 Rcon: addbot
+  0:10 Rcon: addbot Hunter 3.000000 free 0
+  0:10 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:10 ClientUserinfoChanged: 0 n\Hunter\t\0\ts\0\model\hunter\hmodel\hunter\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:10 ClientBegin: 0
+  0:10 Item: 0 ammo_bullets
+  0:12 Item: 0 item_armor_shard
+  0:14 Item: 0 weapon_rocketlauncher
+  0:17 Item: 0 ammo_cells
+  0:20 Rcon: addbot Cadavre 3.000000 free 0
+  0:20 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:20 ClientUserinfoChanged: 1 n\Cadavre\t\0\ts\0\model\biker/cadavre\hmodel\biker/cadavre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:20 ClientBegin: 1
+  0:20 Warmup:
+  0:20 Item: 0 weapon_shotgun
+  0:21 Item: 1 item_armor_shard
+  0:21 Item: 1 item_armor_shard
+  0:21 Item: 1 item_armor_shard
+  0:23 Item: 1 weapon_rocketlauncher
+  0:23 Item: 0 weapon_plasmagun
+  0:25 Item: 1 item_armor_shard
+  0:26 Item: 1 item_armor_shard
+  0:27 Item: 0 item_armor_body
+  0:30 Rcon: addbot argus 3.000000 free 0
+  0:30 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:30 ClientUserinfoChanged: 2 n\^0argus^F^7+\t\0\ts\0\model\bones/default\hmodel\bones/default\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:30 ClientBegin: 2
+  0:31 Item: 1 weapon_shotgun
+  0:31 Rcon: addbot Sarge ^1S^2a^3r^4g^5e
+  0:31 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:31 ClientUserinfoChanged: 3 n\Sarge\t\0\ts\0\model\sarge\hmodel\sarge\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\1\tt\0\tl\0
+  0:31 ClientBegin: 3
+  0:33 Item: 2 weapon_rocketlauncher
+  0:34 Item: 1 weapon_plasmagun
+  0:36 Item: 3 item_health
+  0:36 Item: 3 item_health
+  0:37 Kill: 2 3 6: ^0argus^F^7+ killed Sarge by MOD_ROCKET
+  0:38 Kill: 0 2 7: Hunter killed ^0argus^F^7+ by MOD_ROCKET_SPLASH
+  0:40 Rcon: addbot Lakerbot 3.000000 free 0
+  0:40 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:40 ClientUserinfoChanged: 4 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:40 ClientBegin: 4
+  0:40 Item: 3 weapon_plasmagun
+  0:40 Item: 0 weapon_rocketlauncher
+  0:43 Item: 0 item_health_large
+  0:43 Item: 2 weapon_shotgun
+  0:44 Item: 4 weapon_rocketlauncher
+  0:47 Item: 3 weapon_shotgun
+  0:48 Item: 1 ammo_cells
+  0:50 Rcon: addbot Bitterman 3.000000 free 0
+  0:50 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:50 ClientUserinfoChanged: 5 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:50 ClientBegin: 5
+  0:50 ShutdownGame:
+  0:50 ------------------------------------------------------------
+  0:50 ------------------------------------------------------------
+  0:50 InitGame: \bot_minplayers\10\fraglimit\25\g_gametype\0\mapname\arenagate\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_dlURL\ftp://76.131.236.25/quake3\sv_floodProtect\1\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\10\version\Q3 1.32e macos-aarch64 Jan 26 2025\Info\u	2	      	3 3 3 1 3 3 	E u k i a  	\Uptime\0:00:50\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3 DEFAULT.cfg 70f990036efe93700b61d9f403823b1b ^0/ ^7Q^13^7Plus^4 v3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  0:50 ServerTime: 20250225201731 20:17:31 (25 Feb 2025)
+  0:50 TeamName: 1 ^1RED
+  0:50 TeamName: 2 ^4BLUE
+  0:50 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:50 ClientUserinfoChanged: 0 n\Hunter\t\0\ts\0\model\hunter\hmodel\hunter\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:50 ClientBegin: 0
+  0:50 ClientConnect: 1 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:50 ClientUserinfoChanged: 1 n\Cadavre\t\0\ts\0\model\biker/cadavre\hmodel\biker/cadavre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:50 ClientBegin: 1
+  0:50 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:50 ClientUserinfoChanged: 2 n\^0argus^F^7+\t\0\ts\0\model\bones/default\hmodel\bones/default\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:50 ClientBegin: 2
+  0:50 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:50 ClientUserinfoChanged: 3 n\Sarge\t\0\ts\0\model\sarge\hmodel\sarge\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\1\tt\0\tl\0
+  0:50 ClientBegin: 3
+  0:50 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:50 ClientUserinfoChanged: 4 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:50 ClientBegin: 4
+  0:50 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:50 ClientUserinfoChanged: 5 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:50 ClientBegin: 5
+  0:50 Item: 3 item_armor_shard
+  0:51 Item: 3 item_armor_shard
+  0:51 Item: 4 weapon_shotgun
+  0:51 Item: 3 item_armor_shard
+  0:52 Item: 1 ammo_cells
+  0:53 Item: 4 item_health_large
+  0:54 Item: 3 weapon_rocketlauncher
+  0:54 Item: 4 weapon_shotgun
+  0:55 Kill: 3 1 6: Sarge killed Cadavre by MOD_ROCKET
+  0:55 Score: 3 1
+  0:55 Item: 2 item_armor_shard
+  0:55 Item: 2 item_armor_shard
+  0:56 Item: 2 item_armor_shard
+  0:56 Kill: 2 3 3: ^0argus^F^7+ killed Sarge by MOD_MACHINEGUN
+  0:56 Score: 2 1
+  0:57 Item: 4 item_health
+  0:57 Item: 4 item_health
+  0:57 ClientConnect: 6 \ip\192.168.5.129\guid\89FF02B200E879099023A11AC26EC881\tld\\country\Unknown Location
+  0:57 ClientUserinfoChanged: 6 n\UnnamedPlayer\t\0\ts\0\model\sarge\hmodel\sarge\c\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:58 Kill: 2 0 3: ^0argus^F^7+ killed Hunter by MOD_MACHINEGUN
+  0:58 Score: 2 2
+  0:59 Item: 2 weapon_rocketlauncher
+  0:59 Item: 3 weapon_shotgun
+  1:00 Rcon: addbot Stripe 3.000000 free 0
+  1:00 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+  1:00 ClientUserinfoChanged: 7 n\Stripe\t\0\ts\0\model\grunt/stripe\hmodel\grunt/stripe\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  1:00 ClientBegin: 7
+  1:00 ClientUserinfoChanged: 6 n\ExcessivePlayer\t\0\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:00 ClientBegin: 6
+  1:01 Item: 4 item_armor_body
+  1:01 Item: 5 weapon_plasmagun
+  1:03 Kill: 3 1 1: Sarge killed Cadavre by MOD_SHOTGUN
+  1:03 Score: 3 2
+  1:03 Kill: 4 5 1: ^6L^3akerbo^6T killed Bitterman by MOD_SHOTGUN
+  1:03 Score: 4 1
+  1:04 Item: 7 weapon_rocketlauncher
+  1:04 Kill: 3 2 1: Sarge killed ^0argus^F^7+ by MOD_SHOTGUN
+  1:04 Score: 3 3
+  1:05 Kill: 7 3 7: Stripe killed Sarge by MOD_ROCKET_SPLASH
+  1:05 Score: 7 1
+  1:05 Item: 1 weapon_plasmagun
+  1:06 Item: 0 weapon_shotgun
+  1:06 Item: 0 weapon_rocketlauncher
+  1:07 Item: 2 weapon_plasmagun
+  1:09 Kill: 4 1 1: ^6L^3akerbo^6T killed Cadavre by MOD_SHOTGUN
+  1:09 Score: 4 2
+  1:10 Item: 0 item_health
+  1:10 Rcon: addbot Major 3.000000 free 0
+  1:10 ClientConnect: 8 \ip\localhost\guid\\tld\\country\Unknown Location
+  1:10 ClientUserinfoChanged: 8 n\Major\t\0\ts\0\model\major\hmodel\major\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  1:10 ClientBegin: 8
+  1:11 Kill: 0 5 6: Hunter killed Bitterman by MOD_ROCKET
+  1:11 Score: 0 1
+  1:11 Item: 4 weapon_plasmagun
+  1:11 Kill: 2 7 9: ^0argus^F^7+ killed Stripe by MOD_PLASMA_SPLASH
+  1:11 Score: 2 3
+  1:12 Item: 1 weapon_rocketlauncher
+  1:12 Item: 2 weapon_rocketlauncher
+  1:12 Kill: 4 2 9: ^6L^3akerbo^6T killed ^0argus^F^7+ by MOD_PLASMA_SPLASH
+  1:12 Score: 4 3
+  1:13 Item: 4 weapon_plasmagun
+  1:13 ClientDisconnect: 6
+  1:13 Weapon_Stats: 6 Given:0 Recvd:5 Armor:0 Health:0
+  1:15 Item: 3 weapon_shotgun
+  1:16 Kill: 0 2 6: Hunter killed ^0argus^F^7+ by MOD_ROCKET
+  1:16 Score: 0 2
+  1:16 Kill: 0 0 7: Hunter killed Hunter by MOD_ROCKET_SPLASH
+  1:16 Score: 0 1
+  1:16 Kill: 7 8 3: Stripe killed Major by MOD_MACHINEGUN
+  1:16 Score: 7 2
+  1:17 Item: 5 ammo_shells
+  1:18 Kill: 4 3 8: ^6L^3akerbo^6T killed Sarge by MOD_PLASMA
+  1:18 Score: 4 4
+  1:19 Item: 4 weapon_shotgun
+  1:19 Item: 5 weapon_plasmagun
+  1:19 Kill: 7 1 3: Stripe killed Cadavre by MOD_MACHINEGUN
+  1:19 Score: 7 3
+  1:20 Item: 7 weapon_rocketlauncher
+  1:20 Rcon: addbot Bones 3.000000 free 0
+  1:20 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+  1:20 ClientUserinfoChanged: 6 n\Bones\t\0\ts\0\model\bones\hmodel\bones\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  1:20 ClientBegin: 6
+  1:20 Item: 6 ammo_bullets
+  1:21 Item: 7 weapon_shotgun
+  1:21 Kill: 2 0 3: ^0argus^F^7+ killed Hunter by MOD_MACHINEGUN
+  1:21 Score: 2 4
+  1:22 Item: 4 weapon_rocketlauncher
+  1:22 Kill: 8 4 3: Major killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  1:22 Score: 8 1
+  1:22 Item: 8 weapon_plasmagun
+  1:22 Kill: 2 7 3: ^0argus^F^7+ killed Stripe by MOD_MACHINEGUN
+  1:22 Score: 2 5
+  1:23 Item: 1 item_armor_shard
+  1:23 Item: 1 item_armor_shard
+  1:23 Item: 1 item_armor_shard
+  1:24 Item: 0 ammo_cells
+  1:25 Kill: 3 0 3: Sarge killed Hunter by MOD_MACHINEGUN
+  1:25 Score: 3 4
+  1:26 Kill: 5 4 8: Bitterman killed ^6L^3akerbo^6T by MOD_PLASMA
+  1:26 Score: 5 1
+  1:26 Item: 6 weapon_shotgun
+  1:27 Kill: 6 2 1: Bones killed ^0argus^F^7+ by MOD_SHOTGUN
+  1:27 Score: 6 1
+  1:28 Item: 6 weapon_rocketlauncher
+  1:28 Kill: 8 3 8: Major killed Sarge by MOD_PLASMA
+  1:28 Score: 8 2
+  1:28 Item: 7 weapon_rocketlauncher
+  1:29 Kill: 6 5 1: Bones killed Bitterman by MOD_SHOTGUN
+  1:29 Score: 6 2
+  1:29 Item: 8 weapon_plasmagun
+  1:30 Rcon: addbot Uriel 3.000000 free 0
+  1:30 ClientConnect: 9 \ip\localhost\guid\\tld\\country\Unknown Location
+  1:30 ClientUserinfoChanged: 9 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  1:30 ClientBegin: 9
+  1:30 ClientConnect: 10 \ip\192.168.5.129\guid\89FF02B200E879099023A11AC26EC881\tld\\country\Unknown Location
+  1:30 ClientUserinfoChanged: 10 n\UnnamedPlayer\t\0\ts\0\model\sarge\hmodel\sarge\c\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:30 Kill: 0 8 3: Hunter killed Major by MOD_MACHINEGUN
+  1:30 Score: 0 2
+  1:30 Item: 2 weapon_plasmagun
+  1:31 Item: 7 item_armor_shard
+  1:31 Kill: 2 6 8: ^0argus^F^7+ killed Bones by MOD_PLASMA
+  1:31 Score: 2 6
+  1:31 Item: 1 weapon_shotgun
+  1:31 Item: 0 item_health_large
+  1:32 Item: 1 weapon_plasmagun
+  1:33 ClientUserinfoChanged: 10 n\ExcessivePlayer\t\0\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:33 ClientBegin: 10
+  1:33 Kill: 7 9 6: Stripe killed Uriel by MOD_ROCKET
+  1:33 Score: 7 4
+  1:33 Kill: 2 1 8: ^0argus^F^7+ killed Cadavre by MOD_PLASMA
+  1:33 Score: 2 7
+  1:34 Kill: 2 4 8: ^0argus^F^7+ killed ^6L^3akerbo^6T by MOD_PLASMA
+  1:34 Score: 2 8
+  1:34 Item: 6 weapon_rocketlauncher
+  1:34 Item: 2 weapon_shotgun
+  1:34 Kill: 7 5 6: Stripe killed Bitterman by MOD_ROCKET
+  1:34 Score: 7 5
+  1:35 Item: 3 weapon_shotgun
+  1:35 Item: 0 weapon_plasmagun
+  1:36 Item: 8 weapon_plasmagun
+  1:36 Kill: 2 8 8: ^0argus^F^7+ killed Major by MOD_PLASMA
+  1:36 Score: 2 9
+  1:36 Item: 0 item_health
+  1:36 Item: 0 item_health
+  1:36 Kill: 3 2 1: Sarge killed ^0argus^F^7+ by MOD_SHOTGUN
+  1:36 Score: 3 5
+  1:36 Item: 3 weapon_plasmagun
+  1:37 Item: 9 weapon_plasmagun
+  1:39 Item: 8 weapon_rocketlauncher
+  1:39 Item: 4 weapon_shotgun
+  1:39 Kill: 9 3 8: Uriel killed Sarge by MOD_PLASMA
+  1:39 Score: 9 1
+  1:40 ClientDisconnect: 0
+  1:40 Weapon_Stats: 0 Machinegun:86:42:0:0 R.Launcher:10:4:1:0 Plasmagun:23:9:1:1 Given:636 Recvd:673 Armor:0 Health:92
+  1:40 Item: 5 weapon_plasmagun
+  1:40 Kill: 9 7 8: Uriel killed Stripe by MOD_PLASMA
+  1:40 Score: 9 2
+  1:41 Kill: 8 6 6: Major killed Bones by MOD_ROCKET
+  1:41 Score: 8 3
+  1:41 Kill: 5 4 8: Bitterman killed ^6L^3akerbo^6T by MOD_PLASMA
+  1:41 Score: 5 2
+  1:42 Item: 1 weapon_shotgun
+  1:42 Kill: 9 5 8: Uriel killed Bitterman by MOD_PLASMA
+  1:42 Score: 9 3
+  1:42 Item: 1 weapon_plasmagun
+  1:42 Item: 9 weapon_shotgun
+  1:43 Kill: 8 3 7: Major killed Sarge by MOD_ROCKET_SPLASH
+  1:43 Score: 8 4
+  1:44 Kill: 9 6 8: Uriel killed Bones by MOD_PLASMA
+  1:44 Score: 9 4
+  1:44 Kill: 9 8 8: Uriel killed Major by MOD_PLASMA
+  1:44 Score: 9 5
+  1:44 Item: 9 weapon_rocketlauncher
+  1:45 Item: 2 weapon_shotgun
+  1:46 Item: 7 weapon_rocketlauncher
+  1:47 Kill: 1 2 8: Cadavre killed ^0argus^F^7+ by MOD_PLASMA
+  1:47 Score: 1 1
+  1:48 Item: 6 item_armor_shard
+  1:48 Kill: 5 9 3: Bitterman killed Uriel by MOD_MACHINEGUN
+  1:48 Score: 5 3
+  1:49 Item: 6 item_armor_shard
+  1:49 Kill: 4 3 3: ^6L^3akerbo^6T killed Sarge by MOD_MACHINEGUN
+  1:49 Score: 4 5
+  1:49 Item: 2 weapon_rocketlauncher
+  1:50 Item: 1 weapon_plasmagun
+  1:50 Item: 4 weapon_rocketlauncher
+  1:51 Item: 4 weapon_shotgun
+  1:51 Kill: 4 7 7: ^6L^3akerbo^6T killed Stripe by MOD_ROCKET_SPLASH
+  1:51 Score: 4 6
+  1:51 Item: 9 item_armor_shard
+  1:51 Kill: 4 5 6: ^6L^3akerbo^6T killed Bitterman by MOD_ROCKET
+  1:51 Score: 4 7
+  1:51 Kill: 4 4 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  1:51 Score: 4 6
+  1:51 Item: 9 item_armor_shard
+  1:52 Item: 6 weapon_rocketlauncher
+  1:52 Item: 9 item_armor_shard
+  1:53 Item: 8 weapon_rocketlauncher
+  1:55 Item: 3 weapon_shotgun
+  1:55 Kill: 8 3 7: Major killed Sarge by MOD_ROCKET_SPLASH
+  1:55 Score: 8 5
+  1:56 Kill: 1 7 8: Cadavre killed Stripe by MOD_PLASMA
+  1:56 Score: 1 2
+  1:57 Kill: 2 5 6: ^0argus^F^7+ killed Bitterman by MOD_ROCKET
+  1:57 Score: 2 10
+  1:57 Kill: 2 1 7: ^0argus^F^7+ killed Cadavre by MOD_ROCKET_SPLASH
+  1:57 Score: 2 11
+  1:57 Item: 2 weapon_plasmagun
+  1:57 Kill: 8 2 7: Major killed ^0argus^F^7+ by MOD_ROCKET_SPLASH
+  1:57 Score: 8 6
+  1:57 Item: 6 weapon_rocketlauncher
+  1:58 Item: 4 ammo_cells
+  1:58 Kill: 8 6 7: Major killed Bones by MOD_ROCKET_SPLASH
+  1:58 Score: 8 7
+  1:59 Item: 7 weapon_rocketlauncher
+  2:00 Item: 5 weapon_plasmagun
+  2:01 Kill: 7 3 6: Stripe killed Sarge by MOD_ROCKET
+  2:01 Score: 7 6
+  2:01 Item: 4 weapon_shotgun
+  2:01 Kill: 2 7 3: ^0argus^F^7+ killed Stripe by MOD_MACHINEGUN
+  2:01 Score: 2 12
+  2:01 Item: 2 weapon_rocketlauncher
+  2:03 Item: 9 ammo_shells
+  2:03 Kill: 5 9 8: Bitterman killed Uriel by MOD_PLASMA
+  2:03 Score: 5 4
+  2:04 Kill: 2 8 6: ^0argus^F^7+ killed Major by MOD_ROCKET
+  2:04 Score: 2 13
+  2:04 Item: 7 weapon_rocketlauncher
+  2:04 Item: 1 weapon_rocketlauncher
+  2:05 Kill: 1 2 6: Cadavre killed ^0argus^F^7+ by MOD_ROCKET
+  2:05 Score: 1 3
+  2:05 Item: 3 weapon_shotgun
+  2:06 Kill: 5 6 9: Bitterman killed Bones by MOD_PLASMA_SPLASH
+  2:06 Score: 5 5
+  2:06 Item: 4 weapon_rocketlauncher
+  2:07 Kill: 5 4 8: Bitterman killed ^6L^3akerbo^6T by MOD_PLASMA
+  2:07 Score: 5 6
+  2:07 Kill: 1 3 7: Cadavre killed Sarge by MOD_ROCKET_SPLASH
+  2:07 Score: 1 4
+  2:07 Item: 5 weapon_shotgun
+  2:07 Item: 5 weapon_shotgun
+  2:08 Item: 2 weapon_rocketlauncher
+  2:08 Kill: 5 1 1: Bitterman killed Cadavre by MOD_SHOTGUN
+  2:08 Score: 5 7
+  2:08 Item: 9 weapon_rocketlauncher
+  2:09 Kill: 7 10 7: Stripe killed ExcessivePlayer by MOD_ROCKET_SPLASH
+  2:09 Score: 7 7
+  2:10 Item: 9 weapon_shotgun
+  2:10 Item: 4 weapon_plasmagun
+  2:10 Item: 8 item_health_large
+  2:10 Kill: 2 7 6: ^0argus^F^7+ killed Stripe by MOD_ROCKET
+  2:10 Score: 2 14
+  2:11 Kill: 3 5 3: Sarge killed Bitterman by MOD_MACHINEGUN
+  2:11 Score: 3 6
+  2:11 Item: 8 weapon_shotgun
+  2:12 Item: 2 weapon_rocketlauncher
+  2:12 Kill: 2 6 7: ^0argus^F^7+ killed Bones by MOD_ROCKET_SPLASH
+  2:12 Score: 2 15
+  2:12 Kill: 9 8 6: Uriel killed Major by MOD_ROCKET
+  2:12 Score: 9 6
+  2:12 Kill: 2 1 6: ^0argus^F^7+ killed Cadavre by MOD_ROCKET
+  2:12 Score: 2 16
+  2:13 Kill: 3 9 3: Sarge killed Uriel by MOD_MACHINEGUN
+  2:13 Score: 3 7
+  2:13 Item: 3 weapon_rocketlauncher
+  2:14 Kill: 2 3 6: ^0argus^F^7+ killed Sarge by MOD_ROCKET
+  2:14 Score: 2 17
+  2:14 Kill: 4 7 8: ^6L^3akerbo^6T killed Stripe by MOD_PLASMA
+  2:14 Score: 4 7
+  2:14 Item: 2 weapon_rocketlauncher
+  2:14 Item: 4 item_health
+  2:15 Item: 5 weapon_rocketlauncher
+  2:15 Item: 1 weapon_plasmagun
+  2:16 Item: 2 weapon_shotgun
+  2:17 Kill: 2 6 6: ^0argus^F^7+ killed Bones by MOD_ROCKET
+  2:17 Score: 2 18
+  2:18 Item: 9 weapon_rocketlauncher
+  2:19 Kill: 3 2 3: Sarge killed ^0argus^F^7+ by MOD_MACHINEGUN
+  2:19 Score: 3 8
+  2:19 Kill: 4 7 8: ^6L^3akerbo^6T killed Stripe by MOD_PLASMA
+  2:19 Score: 4 8
+  2:20 Item: 6 item_armor_shard
+  2:20 Item: 6 item_armor_shard
+  2:20 Kill: 4 8 8: ^6L^3akerbo^6T killed Major by MOD_PLASMA
+  2:20 Score: 4 9
+  2:21 Item: 6 item_armor_shard
+  2:21 Item: 3 weapon_shotgun
+  2:21 Kill: 2 5 3: ^0argus^F^7+ killed Bitterman by MOD_MACHINEGUN
+  2:21 Score: 2 19
+  2:21 Item: 1 weapon_rocketlauncher
+  2:22 Kill: 1 4 6: Cadavre killed ^6L^3akerbo^6T by MOD_ROCKET
+  2:22 Score: 1 5
+  2:22 Item: 1 weapon_plasmagun
+  2:22 Item: 2 weapon_rocketlauncher
+  2:23 ClientBegin: 10
+  2:23 ClientUserinfoChanged: 10 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:23 Item: 9 weapon_rocketlauncher
+  2:23 Kill: 2 9 7: ^0argus^F^7+ killed Uriel by MOD_ROCKET_SPLASH
+  2:23 Score: 2 20
+  2:23 Kill: 2 2 7: ^0argus^F^7+ killed ^0argus^F^7+ by MOD_ROCKET_SPLASH
+  2:23 Score: 2 19
+  2:23 Item: 6 weapon_rocketlauncher
+  2:24 Item: 6 weapon_rocketlauncher
+  2:25 Item: 8 weapon_shotgun
+  2:27 Item: 3 weapon_rocketlauncher
+  2:28 Kill: 2 5 3: ^0argus^F^7+ killed Bitterman by MOD_MACHINEGUN
+  2:28 Score: 2 20
+  2:28 Item: 2 item_health
+  2:29 Kill: 1 6 6: Cadavre killed Bones by MOD_ROCKET
+  2:29 Score: 1 6
+  2:29 Item: 4 weapon_shotgun
+  2:30 Kill: 2 4 3: ^0argus^F^7+ killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  2:30 Score: 2 21
+  2:30 Rcon: addbot Grunt 3.000000 free 0
+  2:30 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  2:30 ClientUserinfoChanged: 0 n\Grunt\t\0\ts\0\model\grunt\hmodel\grunt\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  2:30 ClientBegin: 0
+  2:30 Item: 7 weapon_shotgun
+  2:30 Item: 8 item_armor_shard
+  2:30 Item: 0 ammo_cells
+  2:30 Item: 8 item_armor_shard
+  2:30 Kill: 3 1 1: Sarge killed Cadavre by MOD_SHOTGUN
+  2:30 Score: 3 9
+  2:30 Item: 8 item_armor_shard
+  2:30 Item: 9 weapon_rocketlauncher
+  2:31 Item: 5 weapon_rocketlauncher
+  2:31 Item: 8 item_health
+  2:31 Item: 8 item_health
+  2:32 Kill: 7 2 1: Stripe killed ^0argus^F^7+ by MOD_SHOTGUN
+  2:32 Score: 7 8
+  2:32 Item: 6 weapon_plasmagun
+  2:33 Kill: 3 7 1: Sarge killed Stripe by MOD_SHOTGUN
+  2:33 Score: 3 10
+  2:34 Kill: 3 5 1: Sarge killed Bitterman by MOD_SHOTGUN
+  2:34 Score: 3 11
+  2:34 Kill: 5 0 6: Bitterman killed Grunt by MOD_ROCKET
+  2:34 Score: 5 8
+  2:34 Kill: 5 3 7: Bitterman killed Sarge by MOD_ROCKET_SPLASH
+  2:34 Score: 5 9
+  2:35 Item: 2 weapon_rocketlauncher
+  2:35 Item: 9 weapon_shotgun
+  2:35 Kill: 1 4 3: Cadavre killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  2:35 Score: 1 7
+  2:35 Item: 9 weapon_shotgun
+  2:36 Item: 8 weapon_rocketlauncher
+  2:36 Item: 6 weapon_shotgun
+  2:37 Kill: 9 8 6: Uriel killed Major by MOD_ROCKET
+  2:37 Score: 9 7
+  2:37 Item: 0 weapon_plasmagun
+  2:38 Kill: 2 3 6: ^0argus^F^7+ killed Sarge by MOD_ROCKET
+  2:38 Score: 2 22
+  2:38 Item: 9 weapon_rocketlauncher
+  2:39 Kill: 2 9 6: ^0argus^F^7+ killed Uriel by MOD_ROCKET
+  2:39 Score: 2 23
+  2:39 Kill: 5 7 3: Bitterman killed Stripe by MOD_MACHINEGUN
+  2:39 Score: 5 10
+  2:39 Item: 5 weapon_rocketlauncher
+  2:39 Kill: 2 5 6: ^0argus^F^7+ killed Bitterman by MOD_ROCKET
+  2:39 Score: 2 24
+  2:41 Item: 1 weapon_shotgun
+  2:41 Item: 3 weapon_plasmagun
+  2:41 Item: 2 weapon_rocketlauncher
+  2:41 Item: 4 weapon_rocketlauncher
+  2:41 Kill: 2 1 7: ^0argus^F^7+ killed Cadavre by MOD_ROCKET_SPLASH
+  2:41 Score: 2 25
+  2:41 Exit: Fraglimit hit.
+  2:41 score: 25  ping: 0  client: 2 ^0argus^F^7+
+  2:41 score: 11  ping: 0  client: 3 Sarge
+  2:41 score: 10  ping: 0  client: 5 Bitterm  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\20\g_gametype\0\mapname\test_bigbox\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\15\version\Q3 1.32e macos-aarch64 Jan 26 2025\Uptime\0:00:00\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  0:00 ServerTime: 20250225202006 20:20:06 (25 Feb 2025)
+  0:00 TeamName: 1 ^1RED
+  0:00 TeamName: 2 ^4BLUE
+  0:00 Warmup:
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \bot_minplayers\1\fraglimit\20\g_gametype\0\mapname\arenagate\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\0\timelimit\15\version\Q3 1.32e macos-aarch64 Jan 26 2025\Uptime\0:00:00\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  0:00 ServerTime: 20250225202006 20:20:06 (25 Feb 2025)
+  0:00 TeamName: 1 ^1RED
+  0:00 TeamName: 2 ^4BLUE
+  0:00 Warmup:
+  0:10 Rcon: addbot Gorre 3.000000 free 0
+  0:10 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:10 ClientUserinfoChanged: 0 n\Gorre\t\0\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:10 ClientBegin: 0
+  0:10 Item: 0 ammo_cells
+  0:13 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_shard
+  0:13 Item: 0 item_armor_shard
+  0:15 Item: 0 weapon_rocketlauncher
+  0:17 Item: 0 item_armor_shard
+  0:17 ShutdownGame:
+  0:17 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fraglimit\25\g_gametype\0\mapname\test_bigbox\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\15\version\Q3 1.32e macos-aarch64 Jan 26 2025\Uptime\0:00:00\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  0:00 ServerTime: 20250225202052 20:20:52 (25 Feb 2025)
+  0:00 TeamName: 1 ^1RED
+  0:00 TeamName: 2 ^4BLUE
+  0:00 Warmup:
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \bot_minplayers\1\fraglimit\20\g_gametype\0\mapname\arenagate\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\15\version\Q3 1.32e macos-aarch64 Jan 26 2025\Uptime\0:00:00\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  0:00 ServerTime: 20250225202052 20:20:52 (25 Feb 2025)
+  0:00 TeamName: 1 ^1RED
+  0:00 TeamName: 2 ^4BLUE
+  0:00 Warmup:
+  0:10 Rcon: addbot gauntlet 3.000000 free 0
+  0:10 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:10 ClientUserinfoChanged: 0 n\^3Mr.^7Gauntlet\t\0\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:10 ClientBegin: 0
+  0:12 ClientConnect: 1 \ip\192.168.5.129\guid\09A452A4807B9C5E9213048814AF5982\tld\\country\Unknown Location
+  0:12 ClientUserinfoChanged: 1 n\ExcessivePlayer\t\0\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:12 Item: 0 ammo_cells
+  0:14 ClientUserinfoChanged: 1 n\ExcessivePlayer\t\0\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:14 ClientBegin: 1
+  0:14 Warmup:
+  0:14 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_shard
+  0:15 Item: 0 item_armor_shard
+  0:17 Item: 0 weapon_rocketlauncher
+  0:20 Rcon: addbot Wrack 3.000000 free 0
+  0:20 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:20 ClientUserinfoChanged: 2 n\Wrack\t\0\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:20 ClientBegin: 2
+  0:20 Item: 0 item_armor_shard
+  0:23 Item: 0 ammo_bullets
+  0:25 Kill: 0 1 2: ^3Mr.^7Gauntlet killed ExcessivePlayer by MOD_GAUNTLET
+  0:26 Item: 2 weapon_shotgun
+  0:28 say: ExcessivePlayer: help 1
+  0:29 Item: 2 weapon_plasmagun
+  0:30 Rcon: addbot Anarki 3.000000 free 0
+  0:30 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:30 ClientUserinfoChanged: 3 n\^1A^2n^3a^4r^5k^6i\t\0\ts\0\model\anarki\hmodel\anarki\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:30 ClientBegin: 3
+  0:33 Item: 3 weapon_rocketlauncher
+  0:39 Item: 3 weapon_shotgun
+  0:40 Rcon: addbot Uriel 3.000000 free 0
+  0:40 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:40 ClientUserinfoChanged: 4 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:40 ClientBegin: 4
+  0:41 Item: 4 weapon_rocketlauncher
+  0:41 Item: 2 weapon_plasmagun
+  0:43 Item: 4 item_armor_shard
+  0:43 Item: 4 item_armor_shard
+  0:43 Item: 4 item_armor_shard
+  0:44 ShutdownGame:
+  0:44 ------------------------------------------------------------
+  0:44 ------------------------------------------------------------
+  0:44 InitGame: \bot_minplayers\10\fraglimit\25\g_gametype\0\mapname\arenagate\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_dlURL\ftp://76.131.236.25/quake3\sv_floodProtect\1\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\10\version\Q3 1.32e macos-aarch64 Jan 26 2025\Info\t	2	     	3  3 3 3 	y u o e 4 	\Uptime\0:00:44\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3 DEFAULT.cfg 70f990036efe93700b61d9f403823b1b ^0/ ^7Q^13^7Plus^4 v3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  0:44 ServerTime: 20250225202136 20:21:36 (25 Feb 2025)
+  0:44 TeamName: 1 ^1RED
+  0:44 TeamName: 2 ^4BLUE
+  0:44 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:44 ClientUserinfoChanged: 0 n\^3Mr.^7Gauntlet\t\0\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:44 ClientBegin: 0
+  0:44 ClientConnect: 1 \ip\192.168.5.129\guid\09A452A4807B9C5E9213048814AF5982\tld\\country\Unknown Location
+  0:44 ClientUserinfoChanged: 1 n\ExcessivePlayer\t\0\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:44 ClientBegin: 1
+  0:44 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:44 ClientUserinfoChanged: 2 n\Wrack\t\0\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:44 ClientBegin: 2
+  0:44 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:44 ClientUserinfoChanged: 3 n\^1A^2n^3a^4r^5k^6i\t\0\ts\0\model\anarki\hmodel\anarki\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:44 ClientBegin: 3
+  0:44 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:44 ClientUserinfoChanged: 4 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:44 ClientBegin: 4
+  0:44 Item: 0 ammo_cells
+  0:45 Item: 4 weapon_plasmagun
+  0:45 Item: 2 item_armor_shard
+  0:46 Item: 2 item_armor_shard
+  0:46 Item: 2 item_armor_shard
+  0:47 Item: 3 ammo_shells
+  0:48 Item: 0 weapon_rocketlauncher
+  0:49 Item: 4 weapon_plasmagun
+  0:50 Rcon: addbot Gorre 3.000000 free 0
+  0:50 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+  0:50 ClientUserinfoChanged: 5 n\Gorre\t\0\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  0:50 ClientBegin: 5
+  0:50 Item: 2 item_armor_shard
+  0:50 Item: 2 item_armor_shard
+  0:50 Item: 2 item_armor_shard
+  0:51 Item: 5 weapon_shotgun
+  0:51 Item: 3 item_armor_body
+  0:51 Item: 2 item_health
+  0:52 Item: 2 item_health
+  0:54 Item: 2 weapon_rocketlauncher
+  0:55 Item: 3 item_health
+  0:55 Item: 3 item_health
+  0:57 Kill: 0 2 2: ^3Mr.^7Gauntlet killed Wrack by MOD_GAUNTLET
+  0:57 Score: 0 1
+  0:57 Kill: 5 4 1: Gorre killed Uriel by MOD_SHOTGUN
+  0:57 Score: 5 1
+  0:57 Item: 0 item_health_large
+  0:57 Item: 5 weapon_plasmagun
+  0:57 Item: 5 weapon_rocketlauncher
+  0:59 Item: 0 weapon_shotgun
+  1:00 Item: 2 weapon_plasmagun
+  1:00 Rcon: addbot Razor 3.000000 free 0
+  1:00 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+  1:00 ClientUserinfoChanged: 6 n\Razor\t\0\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  1:00 ClientBegin: 6
+  1:02 Item: 4 weapon_rocketlauncher
+  1:02 Kill: 3 5 3: ^1A^2n^3a^4r^5k^6i killed Gorre by MOD_MACHINEGUN
+  1:02 Score: 3 1
+  1:03 Kill: 2 0 8: Wrack killed ^3Mr.^7Gauntlet by MOD_PLASMA
+  1:03 Score: 2 1
+  1:05 Item: 2 weapon_shotgun
+  1:05 Item: 4 weapon_shotgun
+  1:05 Kill: 4 4 7: Uriel killed Uriel by MOD_ROCKET_SPLASH
+  1:05 Score: 4 -1
+  1:06 Item: 6 weapon_rocketlauncher
+  1:08 Kill: 6 3 6: Razor killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  1:08 Score: 6 1
+  1:09 Kill: 6 0 7: Razor killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  1:09 Score: 6 2
+  1:09 Item: 5 ammo_bullets
+  1:09 Item: 4 weapon_shotgun
+  1:10 Rcon: addbot Bitterman 3.000000 free 0
+  1:10 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+  1:10 ClientUserinfoChanged: 7 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  1:10 ClientBegin: 7
+  1:11 Item: 3 weapon_plasmagun
+  1:12 Item: 5 weapon_rocketlauncher
+  1:13 Kill: 2 5 8: Wrack killed Gorre by MOD_PLASMA
+  1:13 Score: 2 2
+  1:14 Kill: 0 6 2: ^3Mr.^7Gauntlet killed Razor by MOD_GAUNTLET
+  1:14 Score: 0 2
+  1:14 Item: 0 weapon_rocketlauncher
+  1:14 Item: 3 weapon_shotgun
+  1:16 Item: 2 weapon_rocketlauncher
+  1:17 Kill: 0 2 2: ^3Mr.^7Gauntlet killed Wrack by MOD_GAUNTLET
+  1:17 Score: 0 3
+  1:17 Item: 0 weapon_rocketlauncher
+  1:17 Kill: 4 0 1: Uriel killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  1:17 Score: 4 0
+  1:18 Item: 4 item_armor_shard
+  1:18 Item: 4 item_armor_shard
+  1:19 Item: 4 item_armor_shard
+  1:20 Rcon: addbot Doom 3.000000 free 0
+  1:20 ClientConnect: 8 \ip\localhost\guid\\tld\\country\Unknown Location
+  1:20 ClientUserinfoChanged: 8 n\Doom\t\0\ts\0\model\doom\hmodel\doom\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  1:20 ClientBegin: 8
+  1:20 Item: 2 weapon_plasmagun
+  1:20 Item: 8 ammo_cells
+  1:21 Kill: 7 4 3: Bitterman killed Uriel by MOD_MACHINEGUN
+  1:21 Score: 7 1
+  1:21 Item: 0 weapon_shotgun
+  1:22 Item: 5 weapon_rocketlauncher
+  1:23 Kill: 5 3 7: Gorre killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET_SPLASH
+  1:23 Score: 5 2
+  1:24 Item: 6 weapon_shotgun
+  1:25 Kill: 6 5 1: Razor killed Gorre by MOD_SHOTGUN
+  1:25 Score: 6 3
+  1:25 Item: 6 weapon_plasmagun
+  1:26 Item: 3 weapon_plasmagun
+  1:26 Item: 6 weapon_rocketlauncher
+  1:26 Item: 8 item_armor_shard
+  1:28 Item: 0 weapon_rocketlauncher
+  1:28 Item: 3 ammo_shells
+  1:29 Kill: 6 8 7: Razor killed Doom by MOD_ROCKET_SPLASH
+  1:29 Score: 6 4
+  1:29 Kill: 6 0 7: Razor killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  1:29 Score: 6 5
+  1:30 Rcon: addbot Lakerbot 3.000000 free 0
+  1:30 ClientConnect: 9 \ip\localhost\guid\\tld\\country\Unknown Location
+  1:30 ClientUserinfoChanged: 9 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  1:30 ClientBegin: 9
+  1:30 Kill: 2 4 8: Wrack killed Uriel by MOD_PLASMA
+  1:30 Score: 2 3
+  1:31 Item: 6 item_armor_shard
+  1:31 Item: 6 item_armor_shard
+  1:31 Kill: 5 7 3: Gorre killed Bitterman by MOD_MACHINEGUN
+  1:31 Score: 5 3
+  1:33 Kill: 6 2 7: Razor killed Wrack by MOD_ROCKET_SPLASH
+  1:33 Score: 6 6
+  1:33 Kill: 3 8 8: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_PLASMA
+  1:33 Score: 3 2
+  1:33 Item: 9 weapon_rocketlauncher
+  1:34 Item: 5 weapon_plasmagun
+  1:34 Item: 4 weapon_shotgun
+  1:35 Item: 2 weapon_plasmagun
+  1:37 Kill: 3 5 8: ^1A^2n^3a^4r^5k^6i killed Gorre by MOD_PLASMA
+  1:37 Score: 3 3
+  1:37 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+  1:37 Score: 0 4
+  1:37 Item: 0 weapon_rocketlauncher
+  1:38 Item: 6 item_health
+  1:38 Item: 4 weapon_plasmagun
+  1:38 Item: 6 item_health
+  1:39 Kill: 6 8 8: Razor killed Doom by MOD_PLASMA
+  1:39 Score: 6 7
+  1:39 Item: 2 weapon_shotgun
+  1:39 Item: 3 weapon_rocketlauncher
+  1:40 Item: 0 item_health_large
+  1:40 Kill: 3 4 7: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_ROCKET_SPLASH
+  1:40 Score: 3 4
+  1:40 Item: 7 weapon_plasmagun
+  1:41 Kill: 6 3 8: Razor killed ^1A^2n^3a^4r^5k^6i by MOD_PLASMA
+  1:41 Score: 6 8
+  1:41 Kill: 5 0 3: Gorre killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+  1:41 Score: 5 4
+  1:42 Item: 5 ammo_bullets
+  1:42 Kill: 7 6 9: Bitterman killed Razor by MOD_PLASMA_SPLASH
+  1:42 Score: 7 2
+  1:43 Item: 7 weapon_plasmagun
+  1:44 Item: 8 weapon_shotgun
+  1:44 Item: 5 weapon_rocketlauncher
+  1:44 Item: 3 weapon_plasmagun
+  1:45 Kill: 7 5 9: Bitterman killed Gorre by MOD_PLASMA_SPLASH
+  1:45 Score: 7 3
+  1:45 Kill: 2 7 8: Wrack killed Bitterman by MOD_PLASMA
+  1:45 Score: 2 4
+  1:45 Item: 2 weapon_plasmagun
+  1:48 Kill: 2 1 8: Wrack killed ExcessivePlayer by MOD_PLASMA
+  1:48 Score: 2 5
+  1:48 Item: 8 weapon_rocketlauncher
+  1:50 Item: 0 weapon_rocketlauncher
+  1:50 Item: 7 weapon_shotgun
+  1:50 Item: 4 item_armor_shard
+  1:51 Item: 4 item_armor_shard
+  1:51 Kill: 6 9 3: Razor killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  1:51 Score: 6 9
+  1:51 Item: 4 item_armor_shard
+  1:52 Kill: 8 2 7: Doom killed Wrack by MOD_ROCKET_SPLASH
+  1:52 Score: 8 1
+  1:52 Kill: 8 0 7: Doom killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  1:52 Score: 8 2
+  1:52 Kill: 7 5 1: Bitterman killed Gorre by MOD_SHOTGUN
+  1:52 Score: 7 4
+  1:53 Kill: 4 6 3: Uriel killed Razor by MOD_MACHINEGUN
+  1:53 Score: 4 1
+  1:54 Item: 8 weapon_plasmagun
+  1:54 Item: 2 weapon_plasmagun
+  1:55 Item: 0 weapon_shotgun
+  1:55 Kill: 3 7 8: ^1A^2n^3a^4r^5k^6i killed Bitterman by MOD_PLASMA
+  1:55 Score: 3 5
+  1:55 Item: 3 weapon_shotgun
+  1:56 Item: 3 weapon_rocketlauncher
+  1:57 Kill: 3 8 7: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_ROCKET_SPLASH
+  1:57 Score: 3 6
+  1:57 Item: 9 item_health
+  1:58 Item: 0 ammo_cells
+  1:58 Item: 5 item_armor_shard
+  1:58 Item: 5 item_armor_shard
+  1:58 Item: 2 weapon_plasmagun
+  1:58 Item: 5 item_armor_shard
+  1:59 Item: 3 weapon_rocketlauncher
+  2:00 Kill: 7 9 3: Bitterman killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  2:00 Score: 7 5
+  2:01 Item: 7 weapon_shotgun
+  2:02 Kill: 7 8 1: Bitterman killed Doom by MOD_SHOTGUN
+  2:02 Score: 7 6
+  2:02 Kill: 3 4 7: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_ROCKET_SPLASH
+  2:02 Score: 3 7
+  2:02 Item: 0 weapon_rocketlauncher
+  2:03 Kill: 7 3 1: Bitterman killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+  2:03 Score: 7 7
+  2:05 Item: 7 weapon_rocketlauncher
+  2:06 Kill: 6 7 3: Razor killed Bitterman by MOD_MACHINEGUN
+  2:06 Score: 6 10
+  2:07 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+  2:07 Score: 0 5
+  2:08 Item: 2 weapon_shotgun
+  2:09 Kill: 0 6 2: ^3Mr.^7Gauntlet killed Razor by MOD_GAUNTLET
+  2:09 Score: 0 6
+  2:09 Kill: 2 8 8: Wrack killed Doom by MOD_PLASMA
+  2:09 Score: 2 6
+  2:10 Item: 3 weapon_rocketlauncher
+  2:12 Kill: 3 4 7: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_ROCKET_SPLASH
+  2:12 Score: 3 8
+  2:12 Item: 0 item_health
+  2:14 ClientBegin: 1
+  2:14 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:15 Kill: 7 3 3: Bitterman killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+  2:15 Score: 7 8
+  2:15 Item: 0 weapon_plasmagun
+  2:15 Item: 6 item_health_large
+  2:15 Item: 2 weapon_rocketlauncher
+  2:15 Item: 5 item_armor_body
+  2:15 Kill: 7 2 3: Bitterman killed Wrack by MOD_MACHINEGUN
+  2:15 Score: 7 9
+  2:17 Item: 4 weapon_shotgun
+  2:17 Item: 3 weapon_rocketlauncher
+  2:18 Kill: 3 6 7: ^1A^2n^3a^4r^5k^6i killed Razor by MOD_ROCKET_SPLASH
+  2:18 Score: 3 9
+  2:18 Item: 5 ammo_shells
+  2:18 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+  2:18 Score: 0 7
+  2:19 Item: 8 weapon_shotgun
+  2:19 Item: 4 item_armor_shard
+  2:19 Kill: 8 7 1: Doom killed Bitterman by MOD_SHOTGUN
+  2:19 Score: 8 3
+  2:20 Rcon: addbot Ranger 3.000000 free 0
+  2:20 ClientConnect: 10 \ip\localhost\guid\\tld\\country\Unknown Location
+  2:20 ClientUserinfoChanged: 10 n\Ranger\t\0\ts\0\model\ranger\hmodel\ranger\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  2:20 ClientBegin: 10
+  2:20 Item: 4 item_armor_shard
+  2:20 Item: 4 item_armor_shard
+  2:20 Item: 5 weapon_plasmagun
+  2:22 Item: 4 ammo_bullets
+  2:23 Kill: 3 0 6: ^1A^2n^3a^4r^5k^6i killed ^3Mr.^7Gauntlet by MOD_ROCKET
+  2:23 Score: 3 10
+  2:24 Item: 2 weapon_rocketlauncher
+  2:25 Kill: 5 4 8: Gorre killed Uriel by MOD_PLASMA
+  2:25 Score: 5 5
+  2:25 Item: 5 weapon_shotgun
+  2:26 Kill: 6 8 3: Razor killed Doom by MOD_MACHINEGUN
+  2:26 Score: 6 11
+  2:26 Item: 10 item_armor_shard
+  2:26 Item: 10 item_armor_shard
+  2:27 Item: 9 weapon_shotgun
+  2:27 Item: 10 item_armor_shard
+  2:27 Kill: 9 6 1: ^6L^3akerbo^6T killed Razor by MOD_SHOTGUN
+  2:27 Score: 9 1
+  2:27 Kill: 2 3 6: Wrack killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  2:27 Score: 2 7
+  2:27 Item: 2 weapon_rocketlauncher
+  2:27 Item: 5 weapon_shotgun
+  2:29 Kill: 5 7 1: Gorre killed Bitterman by MOD_SHOTGUN
+  2:29 Score: 5 6
+  2:29 Item: 2 weapon_rocketlauncher
+  2:29 Item: 6 ammo_cells
+  2:30 Kill: 2 5 6: Wrack killed Gorre by MOD_ROCKET
+  2:30 Score: 2 8
+  2:31 Kill: 10 2 3: Ranger killed Wrack by MOD_MACHINEGUN
+  2:31 Score: 10 1
+  2:32 Kill: 9 3 1: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+  2:32 Score: 9 2
+  2:33 Item: 5 weapon_shotgun
+  2:33 Item: 10 weapon_rocketlauncher
+  2:33 Item: 6 weapon_shotgun
+  2:33 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+  2:33 Score: 0 8
+  2:33 Item: 0 weapon_shotgun
+  2:34 Kill: 6 10 1: Razor killed Ranger by MOD_SHOTGUN
+  2:34 Score: 6 12
+  2:34 Item: 6 weapon_rocketlauncher
+  2:34 Item: 8 weapon_rocketlauncher
+  2:35 Kill: 8 0 7: Doom killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  2:35 Score: 8 4
+  2:36 Item: 4 weapon_plasmagun
+  2:38 Item: 6 weapon_rocketlauncher
+  2:38 Item: 10 weapon_shotgun
+  2:38 Kill: 8 6 6: Doom killed Razor by MOD_ROCKET
+  2:38 Score: 8 5
+  2:38 Item: 8 item_health
+  2:39 Item: 8 item_health
+  2:40 Kill: 7 9 3: Bitterman killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  2:40 Score: 7 10
+  2:40 Item: 5 weapon_rocketlauncher
+  2:40 Kill: 10 4 1: Ranger killed Uriel by MOD_SHOTGUN
+  2:40 Score: 10 2
+  2:41 Kill: 8 5 6: Doom killed Gorre by MOD_ROCKET
+  2:41 Score: 8 6
+  2:41 Kill: 8 7 7: Doom killed Bitterman by MOD_ROCKET_SPLASH
+  2:41 Score: 8 7
+  2:42 Kill: 8 3 6: Doom killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  2:42 Score: 8 8
+  2:42 Kill: 10 2 1: Ranger killed Wrack by MOD_SHOTGUN
+  2:42 Score: 10 3
+  2:43 Kill: 0 8 2: ^3Mr.^7Gauntlet killed Doom by MOD_GAUNTLET
+  2:43 Score: 0 9
+  2:43 Item: 6 weapon_plasmagun
+  2:44 Item: 0 weapon_shotgun
+  2:44 Kill: 6 10 8: Razor killed Ranger by MOD_PLASMA
+  2:44 Score: 6 13
+  2:45 Item: 0 weapon_rocketlauncher
+  2:46 Item: 7 weapon_shotgun
+  2:47 Item: 7 weapon_shotgun
+  2:48 Kill: 6 5 8: Razor killed Gorre by MOD_PLASMA
+  2:48 Score: 6 14
+  2:48 Kill: 3 0 3: ^1A^2n^3a^4r^5k^6i killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+  2:48 Score: 3 11
+  2:49 Kill: 7 2 1: Bitterman killed Wrack by MOD_SHOTGUN
+  2:49 Score: 7 11
+  2:50 Kill: 6 7 9: Razor killed Bitterman by MOD_PLASMA_SPLASH
+  2:50 Score: 6 15
+  2:50 Item: 6 weapon_rocketlauncher
+  2:50 Kill: 8 9 3: Doom killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  2:50 Score: 8 9
+  2:50 Kill: 3 10 3: ^1A^2n^3a^4r^5k^6i killed Ranger by MOD_MACHINEGUN
+  2:50 Score: 3 12
+  2:51 Item: 8 weapon_shotgun
+  2:51 Kill: 8 3 1: Doom killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+  2:51 Score: 8 10
+  2:52 Kill: 6 8 6: Razor killed Doom by MOD_ROCKET
+  2:52 Score: 6 16
+  2:52 Item: 5 weapon_shotgun
+  2:52 Item: 2 weapon_plasmagun
+  2:53 Item: 0 item_armor_shard
+  2:53 Item: 0 item_armor_shard
+  2:53 Item: 6 item_health_large
+  2:53 Item: 10 item_armor_shard
+  2:53 Item: 0 item_armor_shard
+  2:53 Item: 10 item_armor_shard
+  2:53 Item: 10 item_armor_shard
+  2:54 Kill: 2 4 8: Wrack killed Uriel by MOD_PLASMA
+  2:54 Score: 2 9
+  2:55 Item: 6 weapon_shotgun
+  2:56 Kill: 0 5 2: ^3Mr.^7Gauntlet killed Gorre by MOD_GAUNTLET
+  2:56 Score: 0 10
+  2:56 Item: 0 weapon_shotgun
+  2:56 Item: 10 weapon_rocketlauncher
+  2:56 Item: 4 ammo_bullets
+  2:58 Kill: 0 7 2: ^3Mr.^7Gauntlet killed Bitterman by MOD_GAUNTLET
+  2:58 Score: 0 11
+  2:59 Kill: 2 8 8: Wrack killed Doom by MOD_PLASMA
+  2:59 Score: 2 10
+  2:59 Kill: 6 9 6: Razor killed ^6L^3akerbo^6T by MOD_ROCKET
+  2:59 Score: 6 17
+  2:59 Kill: 6 6 7: Razor killed Razor by MOD_ROCKET_SPLASH
+  2:59 Score: 6 16
+  3:00 Kill: 10 3 7: Ranger killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET_SPLASH
+  3:00 Score: 10 4
+  3:01 Item: 0 weapon_shotgun
+  3:01 Item: 4 weapon_rocketlauncher
+  3:03 Kill: 2 10 8: Wrack killed Ranger by MOD_PLASMA
+  3:03 Score: 2 11
+  3:03 Item: 4 weapon_rocketlauncher
+  3:03 Kill: 2 4 8: Wrack killed Uriel by MOD_PLASMA
+  3:03 Score: 2 12
+  3:04 Item: 0 item_health
+  3:04 Item: 0 item_health
+  3:05 Item: 5 weapon_rocketlauncher
+  3:05 Item: 2 weapon_rocketlauncher
+  3:06 Item: 4 weapon_shotgun
+  3:06 Kill: 2 5 6: Wrack killed Gorre by MOD_ROCKET
+  3:06 Score: 2 13
+  3:06 Item: 0 weapon_plasmagun
+  3:06 Item: 2 weapon_rocketlauncher
+  3:08 Item: 7 weapon_rocketlauncher
+  3:08 Kill: 9 3 3: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+  3:08 Score: 9 3
+  3:09 Kill: 2 9 6: Wrack killed ^6L^3akerbo^6T by MOD_ROCKET
+  3:09 Score: 2 14
+  3:09 Kill: 2 7 7: Wrack killed Bitterman by MOD_ROCKET_SPLASH
+  3:09 Score: 2 15
+  3:09 Kill: 4 6 1: Uriel killed Razor by MOD_SHOTGUN
+  3:09 Score: 4 2
+  3:10 Kill: 8 2 3: Doom killed Wrack by MOD_MACHINEGUN
+  3:10 Score: 8 11
+  3:10 Item: 10 weapon_rocketlauncher
+  3:10 Item: 8 weapon_rocketlauncher
+  3:11 Item: 4 ammo_cells
+  3:13 Kill: 8 5 7: Doom killed Gorre by MOD_ROCKET_SPLASH
+  3:13 Score: 8 12
+  3:13 Kill: 0 4 2: ^3Mr.^7Gauntlet killed Uriel by MOD_GAUNTLET
+  3:13 Score: 0 12
+  3:13 Item: 0 weapon_shotgun
+  3:14 Kill: 10 9 6: Ranger killed ^6L^3akerbo^6T by MOD_ROCKET
+  3:14 Score: 10 5
+  3:14 Kill: 10 0 7: Ranger killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  3:14 Score: 10 6
+  3:14 Item: 6 weapon_shotgun
+  3:15 Item: 10 weapon_rocketlauncher
+  3:16 Kill: 10 3 6: Ranger killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  3:16 Score: 10 7
+  3:17 Kill: 8 2 6: Doom killed Wrack by MOD_ROCKET
+  3:17 Score: 8 13
+  3:17 Kill: 8 8 7: Doom killed Doom by MOD_ROCKET_SPLASH
+  3:17 Score: 8 12
+  3:17 Kill: 5 7 3: Gorre killed Bitterman by MOD_MACHINEGUN
+  3:17 Score: 5 7
+  3:17 Item: 6 weapon_rocketlauncher
+  3:19 Kill: 10 6 7: Ranger killed Razor by MOD_ROCKET_SPLASH
+  3:19 Score: 10 8
+  3:20 Item: 5 weapon_rocketlauncher
+  3:20 Item: 0 ammo_shells
+  3:21 Item: 3 weapon_shotgun
+  3:21 Kill: 9 5 3: ^6L^3akerbo^6T killed Gorre by MOD_MACHINEGUN
+  3:21 Score: 9 4
+  3:21 Kill: 10 4 7: Ranger killed Uriel by MOD_ROCKET_SPLASH
+  3:21 Score: 10 9
+  3:21 Item: 10 item_armor_shard
+  3:21 Item: 10 item_armor_shard
+  3:22 Item: 10 item_armor_shard
+  3:22 Item: 0 weapon_plasmagun
+  3:22 Item: 2 weapon_rocketlauncher
+  3:22 Item: 10 item_health
+  3:22 Item: 9 weapon_rocketlauncher
+  3:22 Item: 10 item_health
+  3:23 Kill: 3 8 1: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_SHOTGUN
+  3:23 Score: 3 13
+  3:25 Kill: 10 9 6: Ranger killed ^6L^3akerbo^6T by MOD_ROCKET
+  3:25 Score: 10 10
+  3:26 Kill: 5 7 3: Gorre killed Bitterman by MOD_MACHINEGUN
+  3:26 Score: 5 8
+  3:27 Item: 3 weapon_rocketlauncher
+  3:27 Item: 2 weapon_rocketlauncher
+  3:27 Kill: 2 4 6: Wrack killed Uriel by MOD_ROCKET
+  3:27 Score: 2 16
+  3:27 Kill: 2 2 7: Wrack killed Wrack by MOD_ROCKET_SPLASH
+  3:27 Score: 2 15
+  3:29 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+  3:29 Score: 0 13
+  3:29 Kill: 5 10 3: Gorre killed Ranger by MOD_MACHINEGUN
+  3:29 Score: 5 9
+  3:29 Item: 3 weapon_rocketlauncher
+  3:29 Item: 8 item_health_large
+  3:30 Kill: 3 5 6: ^1A^2n^3a^4r^5k^6i killed Gorre by MOD_ROCKET
+  3:30 Score: 3 14
+  3:31 Item: 4 weapon_shotgun
+  3:31 Item: 2 weapon_plasmagun
+  3:31 Item: 6 item_armor_shard
+  3:32 Item: 6 item_armor_shard
+  3:32 Item: 6 item_armor_shard
+  3:32 Item: 8 weapon_rocketlauncher
+  3:34 Kill: 4 7 1: Uriel killed Bitterman by MOD_SHOTGUN
+  3:34 Score: 4 3
+  3:34 Kill: 3 4 6: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_ROCKET
+  3:34 Score: 3 15
+  3:35 Item: 9 weapon_shotgun
+  3:35 Item: 5 weapon_shotgun
+  3:35 Kill: 9 6 1: ^6L^3akerbo^6T killed Razor by MOD_SHOTGUN
+  3:35 Score: 9 5
+  3:36 Kill: 5 3 1: Gorre killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+  3:36 Score: 5 10
+  3:37 Item: 7 weapon_rocketlauncher
+  3:37 Kill: 9 5 1: ^6L^3akerbo^6T killed Gorre by MOD_SHOTGUN
+  3:37 Score: 9 6
+  3:37 Item: 9 weapon_shotgun
+  3:37 Item: 0 weapon_rocketlauncher
+  3:37 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+  3:37 Score: 0 14
+  3:37 Kill: 8 0 7: Doom killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  3:37 Score: 8 13
+  3:38 Kill: 4 2 3: Uriel killed Wrack by MOD_MACHINEGUN
+  3:38 Score: 4 4
+  3:38 Item: 9 weapon_plasmagun
+  3:39 Kill: 7 9 6: Bitterman killed ^6L^3akerbo^6T by MOD_ROCKET
+  3:39 Score: 7 12
+  3:39 Item: 4 weapon_shotgun
+  3:39 Item: 3 weapon_plasmagun
+  3:40 Kill: 8 4 6: Doom killed Uriel by MOD_ROCKET
+  3:40 Score: 8 14
+  3:40 Item: 10 weapon_shotgun
+  3:41 Item: 10 weapon_shotgun
+  3:41 Item: 2 ammo_cells
+  3:42 Kill: 3 8 8: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_PLASMA
+  3:42 Score: 3 16
+  3:42 Kill: 10 7 1: Ranger killed Bitterman by MOD_SHOTGUN
+  3:42 Score: 10 11
+  3:42 Item: 0 weapon_rocketlauncher
+  3:44 Item: 9 weapon_rocketlauncher
+  3:45 Kill: 3 0 8: ^1A^2n^3a^4r^5k^6i killed ^3Mr.^7Gauntlet by MOD_PLASMA
+  3:45 Score: 3 17
+  3:45 Kill: 2 6 3: Wrack killed Razor by MOD_MACHINEGUN
+  3:45 Score: 2 16
+  3:45 Item: 10 weapon_shotgun
+  3:45 Item: 7 weapon_plasmagun
+  3:45 Item: 10 weapon_rocketlauncher
+  3:46 Kill: 9 2 7: ^6L^3akerbo^6T killed Wrack by MOD_ROCKET_SPLASH
+  3:46 Score: 9 7
+  3:46 Kill: 8 9 3: Doom killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  3:46 Score: 8 15
+  3:48 Item: 3 weapon_rocketlauncher
+  3:48 Kill: 3 4 6: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_ROCKET
+  3:48 Score: 3 18
+  3:48 Kill: 3 3 7: ^1A^2n^3a^4r^5k^6i killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET_SPLASH
+  3:48 Score: 3 17
+  3:49 Kill: 7 5 8: Bitterman killed Gorre by MOD_PLASMA
+  3:49 Score: 7 13
+  3:50 Item: 0 weapon_rocketlauncher
+  3:50 Kill: 0 8 2: ^3Mr.^7Gauntlet killed Doom by MOD_GAUNTLET
+  3:50 Score: 0 15
+  3:51 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+  3:51 Score: 0 16
+  3:51 Item: 0 weapon_rocketlauncher
+  3:51 Item: 9 weapon_shotgun
+  3:51 Item: 4 weapon_rocketlauncher
+  3:52 Kill: 4 2 7: Uriel killed Wrack by MOD_ROCKET_SPLASH
+  3:52 Score: 4 5
+  3:53 Kill: 9 6 1: ^6L^3akerbo^6T killed Razor by MOD_SHOTGUN
+  3:53 Score: 9 8
+  3:53 Kill: 7 0 8: Bitterman killed ^3Mr.^7Gauntlet by MOD_PLASMA
+  3:53 Score: 7 14
+  3:54 Kill: 10 9 3: Ranger killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  3:54 Score: 10 12
+  3:54 Item: 4 weapon_shotgun
+  3:55 Item: 0 weapon_rocketlauncher
+  3:56 Item: 2 weapon_shotgun
+  3:57 Kill: 8 7 3: Doom killed Bitterman by MOD_MACHINEGUN
+  3:57 Score: 8 16
+  3:57 Item: 5 weapon_plasmagun
+  3:58 Kill: 2 5 1: Wrack killed Gorre by MOD_SHOTGUN
+  3:58 Score: 2 17
+  3:58 Item: 8 weapon_plasmagun
+  4:00 Item: 7 weapon_plasmagun
+  4:00 Kill: 8 3 8: Doom killed ^1A^2n^3a^4r^5k^6i by MOD_PLASMA
+  4:00 Score: 8 17
+  4:00 Item: 10 weapon_shotgun
+  4:00 Kill: 4 6 6: Uriel killed Razor by MOD_ROCKET
+  4:00 Score: 4 6
+  4:01 Kill: 7 2 8: Bitterman killed Wrack by MOD_PLASMA
+  4:01 Score: 7 15
+  4:02 Kill: 9 10 3: ^6L^3akerbo^6T killed Ranger by MOD_MACHINEGUN
+  4:02 Score: 9 9
+  4:02 Item: 9 weapon_shotgun
+  4:02 Item: 9 weapon_shotgun
+  4:04 Item: 6 item_health
+  4:04 Item: 0 weapon_shotgun
+  4:05 Item: 6 item_health
+  4:05 Item: 8 ammo_shells
+  4:05 Kill: 8 8 9: Doom killed Doom by MOD_PLASMA_SPLASH
+  4:05 Score: 8 16
+  4:05 Item: 7 weapon_plasmagun
+  4:05 Item: 5 item_health_large
+  4:06 Kill: 0 3 2: ^3Mr.^7Gauntlet killed ^1A^2n^3a^4r^5k^6i by MOD_GAUNTLET
+  4:06 Score: 0 17
+  4:07 Kill: 9 7 1: ^6L^3akerbo^6T killed Bitterman by MOD_SHOTGUN
+  4:07 Score: 9 10
+  4:07 Kill: 6 4 3: Razor killed Uriel by MOD_MACHINEGUN
+  4:07 Score: 6 17
+  4:07 Item: 6 weapon_plasmagun
+  4:07 Item: 9 weapon_shotgun
+  4:07 Item: 2 weapon_rocketlauncher
+  4:08 Kill: 9 6 1: ^6L^3akerbo^6T killed Razor by MOD_SHOTGUN
+  4:08 Score: 9 11
+  4:08 Item: 8 item_armor_shard
+  4:08 Item: 8 item_armor_shard
+  4:08 Item: 8 item_armor_shard
+  4:10 Item: 10 weapon_plasmagun
+  4:10 Item: 7 item_armor_shard
+  4:10 Item: 10 weapon_plasmagun
+  4:10 Item: 6 weapon_rocketlauncher
+  4:10 Item: 7 item_armor_shard
+  4:11 Item: 7 item_armor_shard
+  4:11 Item: 8 ammo_cells
+  4:12 Item: 3 weapon_shotgun
+  4:12 Kill: 5 0 3: Gorre killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+  4:12 Score: 5 11
+  4:12 Kill: 10 9 8: Ranger killed ^6L^3akerbo^6T by MOD_PLASMA
+  4:12 Score: 10 13
+  4:13 Kill: 2 6 6: Wrack killed Razor by MOD_ROCKET
+  4:13 Score: 2 18
+  4:13 Kill: 3 10 1: ^1A^2n^3a^4r^5k^6i killed Ranger by MOD_SHOTGUN
+  4:13 Score: 3 18
+  4:13 Item: 3 weapon_plasmagun
+  4:14 Item: 2 weapon_rocketlauncher
+  4:14 Kill: 8 5 3: Doom killed Gorre by MOD_MACHINEGUN
+  4:14 Score: 8 17
+  4:16 Item: 6 weapon_shotgun
+  4:16 Item: 4 weapon_shotgun
+  4:17 Kill: 6 8 1: Razor killed Doom by MOD_SHOTGUN
+  4:17 Score: 6 18
+  4:18 Kill: 3 4 9: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_PLASMA_SPLASH
+  4:18 Score: 3 19
+  4:18 Item: 7 weapon_shotgun
+  4:18 Item: 6 weapon_plasmagun
+  4:18 Item: 10 weapon_rocketlauncher
+  4:18 Kill: 0 2 2: ^3Mr.^7Gauntlet killed Wrack by MOD_GAUNTLET
+  4:18 Score: 0 18
+  4:20 Item: 7 weapon_rocketlauncher
+  4:20 Kill: 0 5 2: ^3Mr.^7Gauntlet killed Gorre by MOD_GAUNTLET
+  4:20 Score: 0 19
+  4:21 Kill: 10 3 7: Ranger killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET_SPLASH
+  4:21 Score: 10 14
+  4:21 Item: 2 weapon_rocketlauncher
+  4:21 Kill: 7 9 1: Bitterman killed ^6L^3akerbo^6T by MOD_SHOTGUN
+  4:21 Score: 7 16
+  4:21 Item: 10 weapon_plasmagun
+  4:22 Kill: 10 7 7: Ranger killed Bitterman by MOD_ROCKET_SPLASH
+  4:22 Score: 10 15
+  4:22 Item: 4 weapon_shotgun
+  4:22 Kill: 10 10 7: Ranger killed Ranger by MOD_ROCKET_SPLASH
+  4:22 Score: 10 14
+  4:22 Kill: 6 0 8: Razor killed ^3Mr.^7Gauntlet by MOD_PLASMA
+  4:22 Score: 6 19
+  4:24 Item: 6 weapon_shotgun
+  4:24 Item: 9 weapon_plasmagun
+  4:24 Kill: 6 4 8: Razor killed Uriel by MOD_PLASMA
+  4:24 Score: 6 20
+  4:25 Item: 5 weapon_rocketlauncher
+  4:25 Item: 6 weapon_shotgun
+  4:25 Item: 0 weapon_rocketlauncher
+  4:26 Kill: 5 8 7: Gorre killed Doom by MOD_ROCKET_SPLASH
+  4:26 Score: 5 12
+  4:27 Kill: 5 2 7: Gorre killed Wrack by MOD_ROCKET_SPLASH
+  4:27 Score: 5 13
+  4:27 Item: 3 weapon_rocketlauncher
+  4:28 Kill: 6 5 8: Razor killed Gorre by MOD_PLASMA
+  4:28 Score: 6 21
+  4:28 Kill: 9 6 8: ^6L^3akerbo^6T killed Razor by MOD_PLASMA
+  4:28 Score: 9 12
+  4:29 Item: 8 weapon_rocketlauncher
+  4:29 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+  4:29 Score: 0 20
+  4:30 Item: 3 weapon_rocketlauncher
+  4:30 Item: 2 weapon_plasmagun
+  4:30 Kill: 3 7 7: ^1A^2n^3a^4r^5k^6i killed Bitterman by MOD_ROCKET_SPLASH
+  4:30 Score: 3 20
+  4:30 Kill: 9 3 8: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_PLASMA
+  4:30 Score: 9 13
+  4:31 Item: 9 weapon_plasmagun
+  4:31 Item: 9 weapon_rocketlauncher
+  4:31 Item: 4 weapon_shotgun
+  4:33 Kill: 2 10 8: Wrack killed Ranger by MOD_PLASMA
+  4:33 Score: 2 19
+  4:33 Kill: 4 0 1: Uriel killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  4:33 Score: 4 7
+  4:34 Item: 5 weapon_shotgun
+  4:35 Kill: 2 4 8: Wrack killed Uriel by MOD_PLASMA
+  4:35 Score: 2 20
+  4:35 Kill: 9 5 6: ^6L^3akerbo^6T killed Gorre by MOD_ROCKET
+  4:35 Score: 9 14
+  4:36 Item: 7 weapon_shotgun
+  4:36 Kill: 7 9 1: Bitterman killed ^6L^3akerbo^6T by MOD_SHOTGUN
+  4:36 Score: 7 17
+  4:36 Kill: 8 3 6: Doom killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  4:36 Score: 8 18
+  4:36 Item: 7 weapon_rocketlauncher
+  4:37 Item: 4 weapon_rocketlauncher
+  4:39 Item: 5 item_armor_shard
+  4:39 Kill: 0 8 2: ^3Mr.^7Gauntlet killed Doom by MOD_GAUNTLET
+  4:39 Score: 0 21
+  4:39 Item: 0 weapon_rocketlauncher
+  4:39 Item: 2 ammo_shells
+  4:39 Item: 5 item_armor_shard
+  4:39 Item: 5 item_armor_shard
+  4:39 Item: 7 weapon_plasmagun
+  4:40 Item: 0 weapon_shotgun
+  4:40 Item: 6 weapon_shotgun
+  4:40 Kill: 2 7 8: Wrack killed Bitterman by MOD_PLASMA
+  4:40 Score: 2 21
+  4:40 Item: 6 item_health
+  4:41 Kill: 2 10 8: Wrack killed Ranger by MOD_PLASMA
+  4:41 Score: 2 22
+  4:41 Item: 6 item_health
+  4:41 Kill: 6 2 1: Razor killed Wrack by MOD_SHOTGUN
+  4:41 Score: 6 22
+  4:42 Item: 9 item_health_large
+  4:42 Item: 4 weapon_rocketlauncher
+  4:43 Item: 6 weapon_shotgun
+  4:44 Item: 3 weapon_plasmagun
+  4:45 Item: 5 weapon_shotgun
+  4:45 Kill: 0 6 2: ^3Mr.^7Gauntlet killed Razor by MOD_GAUNTLET
+  4:45 Score: 0 22
+  4:45 Item: 9 weapon_shotgun
+  4:46 Item: 7 ammo_cells
+  4:46 Kill: 9 3 1: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+  4:46 Score: 9 15
+  4:46 Kill: 5 0 1: Gorre killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  4:46 Score: 5 14
+  4:48 Kill: 9 8 1: ^6L^3akerbo^6T killed Doom by MOD_SHOTGUN
+  4:48 Score: 9 16
+  4:48 Item: 6 weapon_rocketlauncher
+  4:49 Item: 9 weapon_plasmagun
+  4:50 Kill: 5 2 1: Gorre killed Wrack by MOD_SHOTGUN
+  4:50 Score: 5 15
+  4:50 Item: 7 weapon_shotgun
+  4:51 Kill: 6 4 7: Razor killed Uriel by MOD_ROCKET_SPLASH
+  4:51 Score: 6 23
+  4:51 Kill: 7 5 1: Bitterman killed Gorre by MOD_SHOTGUN
+  4:51 Score: 7 18
+  4:51 Item: 10 weapon_plasmagun
+  4:51 Item: 6 weapon_rocketlauncher
+  4:52 Item: 0 weapon_shotgun
+  4:52 Item: 9 item_armor_body
+  4:52 Kill: 0 7 2: ^3Mr.^7Gauntlet killed Bitterman by MOD_GAUNTLET
+  4:52 Score: 0 23
+  4:52 Item: 0 weapon_shotgun
+  4:52 Kill: 3 8 3: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_MACHINEGUN
+  4:52 Score: 3 21
+  4:53 Kill: 10 9 8: Ranger killed ^6L^3akerbo^6T by MOD_PLASMA
+  4:53 Score: 10 15
+  4:54 Kill: 0 4 2: ^3Mr.^7Gauntlet killed Uriel by MOD_GAUNTLET
+  4:54 Score: 0 24
+  4:55 Kill: 0 3 2: ^3Mr.^7Gauntlet killed ^1A^2n^3a^4r^5k^6i by MOD_GAUNTLET
+  4:55 Score: 0 25
+  4:55 Exit: Fraglimit hit.
+  4:55 score: 25  ping: 0  client: 0 ^3Mr.^7Gauntlet
+  4:55 score: 23  ping: 0  client: 6 Razor
+  4:55 score: 22  ping: 0  client: 2 Wrack
+  4:55 score: 21  ping: 0  client: 3 ^1A^2n^3a^4r^5k^6i
+  4:55 score: 18  ping: 0  client: 7 Bitterman
+  4:55 score: 18  ping: 0  client: 8 Doom
+  4:55 score: 16  ping: 0  client: 9 ^6L^3akerbo^6T
+  4:55 score: 15  ping: 0  client: 10 Ranger
+  4:55 score: 15  ping: 0  client: 5 Gorre
+  4:55 score: 7  ping: 0  client: 4 Uriel
+  4:55 Weapon_Stats: 0 Gauntlet:61:61:0:0 Given:3020 Recvd:2762 Armor:15 Health:158
+  4:55 Weapon_Stats: 2 Machinegun:256:112:0:0 Shotgun:6:4:4:2 R.Launcher:31:21:13:7 Plasmagun:333:125:9:4 Given:4735 Recvd:2978 Armor:30 Health:50
+  4:55 Weapon_Stats: 3 Machinegun:423:160:0:0 Shotgun:7:5:4:0 R.Launcher:32:22:10:7 Plasmagun:144:51:6:3 Given:3492 Recvd:3216 Armor:100 Health:50
+  4:55 Weapon_Stats: 4 Machinegun:337:94:0:0 Shotgun:35:21:11:9 R.Launcher:22:10:6:3 Plasmagun:64:11:4:3 Given:2100 Recvd:3384 Armor:45 Health:0
+  4:55 Weapon_Stats: 5 Machinegun:469:169:0:0 Shotgun:22:16:8:7 R.Launcher:7:5:8:6 Plasmagun:17:4:4:2 Given:1924 Recvd:3355 Armor:130 Health:50
+  4:55 Weapon_Stats: 6 Machinegun:403:136:0:0 Shotgun:7:6:9:1 R.Launcher:32:17:9:5 Plasmagun:92:55:4:3 Given:3333 Recvd:2788 Armor:25 Health:183
+  4:55 Weapon_Stats: 7 Machinegun:414:146:0:0 Shotgun:19:15:7:6 R.Launcher:6:4:5:2 Plasmagun:100:35:6:3 Given:2524 Recvd:2813 Armor:15 Health:0
+  4:55 Weapon_Stats: 8 Machinegun:418:176:0:0 Shotgun:8:6:3:2 R.Launcher:31:23:5:5 Plasmagun:19:7:2:1 Given:3098 Recvd:2872 Armor:20 Health:76
+  4:55 Weapon_Stats: 9 Machinegun:532:258:0:0 Shotgun:22:17:8:4 R.Launcher:12:9:4:4 Plasmagun:22:7:4:1 Given:2707 Recvd:3122 Armor:100 Health:39
+  4:55 Weapon_Stats: 10 Machinegun:271:103:0:0 Shotgun:11:8:5:2 R.Launcher:27:20:6:4 Plasmagun:18:4:4:1 Given:2388 Recvd:1896 Armor:45 Health:50
+  5:11 ShutdownGame:
+  5:11 ------------------------------------------------------------
+  5:11 ------------------------------------------------------------
+  5:11 InitGame: \bot_minplayers\10\fraglimit\20\g_gametype\0\mapname\q3dm1\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_dlURL\ftp://76.131.236.25/quake3\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\10\version\Q3 1.32e macos-aarch64 Jan 26 2025\Info\34	3	 3          	3  3 3 3 3 3 3 3 3 3 	34 22 34 34 34 2} 2= 2( 2U 2K 1_ 	\Uptime\0:05:10\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3 DEFAULT.cfg 70f990036efe93700b61d9f403823b1b ^0/ ^7Q^13^7Plus^4 v3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  5:11 ServerTime: 20250225202603 20:26:03 (25 Feb 2025)
+  5:11 TeamName: 1 ^1RED
+  5:11 TeamName: 2 ^4BLUE
+  5:11 Warmup:
+  5:11 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 0 n\^3Mr.^7Gauntlet\t\0\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 ClientBegin: 0
+  5:11 ClientConnect: 1 \ip\192.168.5.129\guid\09A452A4807B9C5E9213048814AF5982\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  5:11 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 2 n\Wrack\t\0\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 ClientBegin: 2
+  5:11 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 3 n\^1A^2n^3a^4r^5k^6i\t\0\ts\0\model\anarki\hmodel\anarki\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 ClientBegin: 3
+  5:11 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 4 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 ClientBegin: 4
+  5:11 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 5 n\Gorre\t\0\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 ClientBegin: 5
+  5:11 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 6 n\Razor\t\0\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 ClientBegin: 6
+  5:11 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 7 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 Kill: 7 0 18: Bitterman killed ^3Mr.^7Gauntlet by MOD_TELEFRAG
+  5:11 ClientBegin: 7
+  5:11 ClientConnect: 8 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 8 n\Doom\t\0\ts\0\model\doom\hmodel\doom\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 Kill: 8 7 18: Doom killed Bitterman by MOD_TELEFRAG
+  5:11 ClientBegin: 8
+  5:11 ClientConnect: 9 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 9 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 Kill: 9 4 18: ^6L^3akerbo^6T killed Uriel by MOD_TELEFRAG
+  5:11 ClientBegin: 9
+  5:11 ClientConnect: 10 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:11 ClientUserinfoChanged: 10 n\Ranger\t\0\ts\0\model\ranger\hmodel\ranger\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:11 Kill: 10 2 18: Ranger killed Wrack by MOD_TELEFRAG
+  5:11 ClientBegin: 10
+  5:11 Warmup:
+  5:12 Item: 9 item_armor_shard
+  5:12 Item: 9 item_armor_shard
+  5:12 Item: 9 item_armor_shard
+  5:12 Item: 5 weapon_plasmagun
+  5:12 Item: 6 ammo_shells
+  5:13 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  5:13 ClientBegin: 1
+  5:13 Item: 10 ammo_cells
+  5:14 Item: 10 item_armor_shard
+  5:14 Item: 10 item_armor_shard
+  5:14 Item: 10 item_armor_shard
+  5:15 Item: 9 weapon_rocketlauncher
+  5:16 Item: 6 item_armor_body
+  5:16 Kill: 5 4 8: Gorre killed Uriel by MOD_PLASMA
+  5:17 Item: 7 weapon_shotgun
+  5:18 Kill: 5 2 8: Gorre killed Wrack by MOD_PLASMA
+  5:18 Kill: 0 3 2: ^3Mr.^7Gauntlet killed ^1A^2n^3a^4r^5k^6i by MOD_GAUNTLET
+  5:19 Kill: 6 8 3: Razor killed Doom by MOD_MACHINEGUN
+  5:19 Kill: 9 10 7: ^6L^3akerbo^6T killed Ranger by MOD_ROCKET_SPLASH
+  5:19 Item: 5 item_health
+  5:20 Item: 5 item_health
+  5:20 Item: 7 weapon_rocketlauncher
+  5:20 Kill: 5 6 8: Gorre killed Razor by MOD_PLASMA
+  5:21 Kill: 9 7 6: ^6L^3akerbo^6T killed Bitterman by MOD_ROCKET
+  5:21 Kill: 9 9 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  5:22 Item: 10 weapon_plasmagun
+  5:23 Item: 2 weapon_shotgun
+  5:24 Item: 0 item_health_large
+  5:24 Kill: 0 5 2: ^3Mr.^7Gauntlet killed Gorre by MOD_GAUNTLET
+  5:25 Kill: 10 9 8: Ranger killed ^6L^3akerbo^6T by MOD_PLASMA
+  5:25 Kill: 0 4 2: ^3Mr.^7Gauntlet killed Uriel by MOD_GAUNTLET
+  5:27 Item: 3 weapon_rocketlauncher
+  5:28 Kill: 6 0 3: Razor killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+  5:28 Item: 6 weapon_rocketlauncher
+  5:28 Item: 3 weapon_shotgun
+  5:29 Item: 6 item_health
+  5:29 Kill: 8 7 3: Doom killed Bitterman by MOD_MACHINEGUN
+  5:30 Item: 6 item_health
+  5:30 Item: 2 weapon_plasmagun
+  5:30 Item: 10 weapon_shotgun
+  5:30 Kill: 6 3 6: Razor killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  5:32 Kill: 6 9 7: Razor killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  5:32 Item: 8 weapon_rocketlauncher
+  5:33 Item: 8 weapon_rocketlauncher
+  5:35 Item: 9 weapon_plasmagun
+  5:35 Item: 0 weapon_shotgun
+  5:39 Item: 0 weapon_rocketlauncher
+  5:39 Item: 5 ammo_bullets
+  5:40 Item: 7 item_armor_shard
+  5:41 Item: 7 item_armor_shard
+  5:41 Item: 7 item_armor_shard
+  5:41 ShutdownGame:
+  5:41 ------------------------------------------------------------
+  5:41 ------------------------------------------------------------
+  5:41 InitGame: \bot_minplayers\10\fraglimit\25\g_gametype\0\mapname\q3dm1\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_dlURL\ftp://76.131.236.25/quake3\sv_floodProtect\1\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\10\version\Q3 1.32e macos-aarch64 Jan 26 2025\Info\u	2	 3          	3  3 3 3 3 3 3 3 3 3 	u 2x u u u u u u u u u 	\Uptime\0:05:41\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3 DEFAULT.cfg 70f990036efe93700b61d9f403823b1b ^0/ ^7Q^13^7Plus^4 v3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  5:41 ServerTime: 20250225202633 20:26:33 (25 Feb 2025)
+  5:41 TeamName: 1 ^1RED
+  5:41 TeamName: 2 ^4BLUE
+  5:41 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 0 n\^3Mr.^7Gauntlet\t\0\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 0
+  5:41 ClientConnect: 1 \ip\192.168.5.129\guid\09A452A4807B9C5E9213048814AF5982\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  5:41 ClientBegin: 1
+  5:41 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 2 n\Wrack\t\0\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 2
+  5:41 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 3 n\^1A^2n^3a^4r^5k^6i\t\0\ts\0\model\anarki\hmodel\anarki\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 3
+  5:41 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 4 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 4
+  5:41 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 5 n\Gorre\t\0\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 5
+  5:41 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 6 n\Razor\t\0\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 6
+  5:41 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 7 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 7
+  5:41 ClientConnect: 8 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 8 n\Doom\t\0\ts\0\model\doom\hmodel\doom\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 8
+  5:41 ClientConnect: 9 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 9 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 9
+  5:41 ClientConnect: 10 \ip\localhost\guid\\tld\\country\Unknown Location
+  5:41 ClientUserinfoChanged: 10 n\Ranger\t\0\ts\0\model\ranger\hmodel\ranger\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  5:41 ClientBegin: 10
+  5:41 Kill: 7 2 18: Bitterman killed Wrack by MOD_TELEFRAG
+  5:41 Score: 7 1
+  5:41 Kill: 8 5 18: Doom killed Gorre by MOD_TELEFRAG
+  5:41 Score: 8 1
+  5:41 Kill: 9 4 18: ^6L^3akerbo^6T killed Uriel by MOD_TELEFRAG
+  5:41 Score: 9 1
+  5:41 Kill: 10 9 18: Ranger killed ^6L^3akerbo^6T by MOD_TELEFRAG
+  5:41 Score: 10 1
+  5:42 Item: 10 item_armor_shard
+  5:42 Item: 10 item_armor_shard
+  5:42 Item: 10 item_armor_shard
+  5:42 Item: 3 ammo_bullets
+  5:45 Item: 2 ammo_cells
+  5:45 Item: 8 item_health_large
+  5:46 Item: 5 weapon_rocketlauncher
+  5:46 Kill: 8 4 3: Doom killed Uriel by MOD_MACHINEGUN
+  5:46 Score: 8 2
+  5:47 Item: 3 item_armor_shard
+  5:47 Item: 3 item_armor_shard
+  5:47 Item: 3 item_armor_shard
+  5:48 Item: 3 item_health
+  5:49 Item: 9 weapon_shotgun
+  5:50 Kill: 5 2 7: Gorre killed Wrack by MOD_ROCKET_SPLASH
+  5:50 Score: 5 1
+  5:50 Kill: 8 10 3: Doom killed Ranger by MOD_MACHINEGUN
+  5:50 Score: 8 3
+  5:50 Item: 5 item_health
+  5:50 Kill: 5 7 7: Gorre killed Bitterman by MOD_ROCKET_SPLASH
+  5:50 Score: 5 2
+  5:51 Item: 6 ammo_shells
+  5:51 Kill: 8 6 3: Doom killed Razor by MOD_MACHINEGUN
+  5:51 Score: 8 4
+  5:52 Item: 9 weapon_rocketlauncher
+  5:53 Kill: 9 3 7: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET_SPLASH
+  5:53 Score: 9 2
+  5:53 Item: 2 weapon_plasmagun
+  5:53 Item: 4 weapon_shotgun
+  5:54 Item: 8 item_armor_body
+  5:56 Kill: 9 6 6: ^6L^3akerbo^6T killed Razor by MOD_ROCKET
+  5:56 Score: 9 3
+  5:56 Kill: 9 9 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  5:56 Score: 9 2
+  5:56 Kill: 5 4 6: Gorre killed Uriel by MOD_ROCKET
+  5:56 Score: 5 3
+  5:57 Item: 5 weapon_shotgun
+  5:58 Item: 8 item_health
+  5:58 Kill: 2 6 8: Wrack killed Razor by MOD_PLASMA
+  5:58 Score: 2 1
+  5:59 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+  5:59 Score: 0 1
+  5:59 Item: 5 weapon_rocketlauncher
+  6:00 Item: 0 weapon_plasmagun
+  6:01 Item: 7 weapon_shotgun
+  6:01 Kill: 2 8 8: Wrack killed Doom by MOD_PLASMA
+  6:01 Score: 2 2
+  6:02 Kill: 7 3 1: Bitterman killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+  6:02 Score: 7 2
+  6:03 Item: 7 weapon_rocketlauncher
+  6:04 Kill: 5 0 1: Gorre killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  6:04 Score: 5 4
+  6:06 Kill: 6 9 3: Razor killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  6:06 Score: 6 1
+  6:07 Item: 5 item_health
+  6:07 Kill: 4 2 3: Uriel killed Wrack by MOD_MACHINEGUN
+  6:07 Score: 4 1
+  6:07 Kill: 7 10 1: Bitterman killed Ranger by MOD_SHOTGUN
+  6:07 Score: 7 3
+  6:08 Kill: 0 6 2: ^3Mr.^7Gauntlet killed Razor by MOD_GAUNTLET
+  6:08 Score: 0 2
+  6:09 Item: 3 weapon_shotgun
+  6:09 Kill: 7 4 1: Bitterman killed Uriel by MOD_SHOTGUN
+  6:09 Score: 7 4
+  6:10 Kill: 3 8 1: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_SHOTGUN
+  6:10 Score: 3 1
+  6:10 Item: 10 item_armor_shard
+  6:11 Kill: 5 2 1: Gorre killed Wrack by MOD_SHOTGUN
+  6:11 Score: 5 5
+  6:12 Kill: 3 0 1: ^1A^2n^3a^4r^5k^6i killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  6:12 Score: 3 2
+  6:12 Item: 6 item_armor_shard
+  6:12 Item: 6 item_armor_shard
+  6:13 Item: 10 weapon_rocketlauncher
+  6:13 Kill: 9 5 3: ^6L^3akerbo^6T killed Gorre by MOD_MACHINEGUN
+  6:13 Score: 9 3
+  6:13 Item: 7 ammo_bullets
+  6:13 Item: 9 weapon_shotgun
+  6:14 Kill: 7 8 7: Bitterman killed Doom by MOD_ROCKET_SPLASH
+  6:14 Score: 7 5
+  6:15 Item: 3 item_armor_shard
+  6:15 Kill: 10 3 6: Ranger killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  6:15 Score: 10 2
+  6:16 Item: 7 weapon_shotgun
+  6:16 Kill: 9 10 1: ^6L^3akerbo^6T killed Ranger by MOD_SHOTGUN
+  6:16 Score: 9 4
+  6:16 Kill: 9 7 1: ^6L^3akerbo^6T killed Bitterman by MOD_SHOTGUN
+  6:16 Score: 9 5
+  6:16 Item: 4 weapon_rocketlauncher
+  6:16 Item: 9 weapon_rocketlauncher
+  6:16 Item: 6 weapon_shotgun
+  6:17 Item: 6 item_armor_shard
+  6:17 Item: 6 item_armor_shard
+  6:17 Kill: 4 0 6: Uriel killed ^3Mr.^7Gauntlet by MOD_ROCKET
+  6:17 Score: 4 2
+  6:17 Kill: 9 4 7: ^6L^3akerbo^6T killed Uriel by MOD_ROCKET_SPLASH
+  6:17 Score: 9 6
+  6:17 Kill: 6 9 1: Razor killed ^6L^3akerbo^6T by MOD_SHOTGUN
+  6:17 Score: 6 2
+  6:18 Item: 2 weapon_rocketlauncher
+  6:18 Item: 5 weapon_shotgun
+  6:19 Item: 2 weapon_rocketlauncher
+  6:19 Item: 2 weapon_rocketlauncher
+  6:21 Item: 3 item_health_large
+  6:23 Item: 0 weapon_rocketlauncher
+  6:23 Item: 3 weapon_shotgun
+  6:23 Item: 6 ammo_cells
+  6:23 Kill: 10 3 3: Ranger killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+  6:23 Score: 10 3
+  6:24 Item: 10 weapon_shotgun
+  6:24 Kill: 5 6 1: Gorre killed Razor by MOD_SHOTGUN
+  6:24 Score: 5 6
+  6:24 Kill: 4 10 3: Uriel killed Ranger by MOD_MACHINEGUN
+  6:24 Score: 4 3
+  6:24 Item: 5 weapon_shotgun
+  6:25 Item: 5 item_health
+  6:25 Item: 7 weapon_shotgun
+  6:26 Item: 5 item_health
+  6:26 Kill: 7 9 1: Bitterman killed ^6L^3akerbo^6T by MOD_SHOTGUN
+  6:26 Score: 7 6
+  6:26 Item: 2 ammo_shells
+  6:28 Item: 5 weapon_rocketlauncher
+  6:28 Item: 2 weapon_plasmagun
+  6:29 Kill: 5 4 1: Gorre killed Uriel by MOD_SHOTGUN
+  6:29 Score: 5 7
+  6:29 Item: 3 weapon_shotgun
+  6:30 Kill: 7 5 1: Bitterman killed Gorre by MOD_SHOTGUN
+  6:30 Score: 7 7
+  6:31 Item: 10 weapon_shotgun
+  6:32 Kill: 7 0 1: Bitterman killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  6:32 Score: 7 8
+  6:32 Item: 8 weapon_plasmagun
+  6:32 Kill: 10 9 1: Ranger killed ^6L^3akerbo^6T by MOD_SHOTGUN
+  6:32 Score: 10 4
+  6:33 Item: 10 weapon_rocketlauncher
+  6:33 Kill: 6 10 3: Razor killed Ranger by MOD_MACHINEGUN
+  6:33 Score: 6 3
+  6:34 Item: 6 weapon_shotgun
+  6:34 Kill: 7 2 1: Bitterman killed Wrack by MOD_SHOTGUN
+  6:34 Score: 7 9
+  6:34 Item: 3 weapon_plasmagun
+  6:35 Kill: 0 3 2: ^3Mr.^7Gauntlet killed ^1A^2n^3a^4r^5k^6i by MOD_GAUNTLET
+  6:35 Score: 0 3
+  6:35 Item: 0 weapon_plasmagun
+  6:35 Item: 8 item_armor_body
+  6:36 Kill: 6 7 1: Razor killed Bitterman by MOD_SHOTGUN
+  6:36 Score: 6 4
+  6:36 Item: 4 weapon_shotgun
+  6:38 Item: 4 weapon_shotgun
+  6:38 Item: 7 item_armor_shard
+  6:38 Kill: 10 6 3: Ranger killed Razor by MOD_MACHINEGUN
+  6:38 Score: 10 5
+  6:39 Item: 0 weapon_shotgun
+  6:39 Item: 8 weapon_plasmagun
+  6:40 Kill: 7 4 3: Bitterman killed Uriel by MOD_MACHINEGUN
+  6:40 Score: 7 10
+  6:40 Item: 5 weapon_shotgun
+  6:40 Item: 7 weapon_rocketlauncher
+  6:41 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+  6:41 Score: 0 4
+  6:43 Kill: 3 2 3: ^1A^2n^3a^4r^5k^6i killed Wrack by MOD_MACHINEGUN
+  6:43 Score: 3 3
+  6:43 Item: 3 weapon_shotgun
+  6:43 Item: 9 item_armor_shard
+  6:43 Kill: 7 5 7: Bitterman killed Gorre by MOD_ROCKET_SPLASH
+  6:43 Score: 7 11
+  6:44 Item: 8 ammo_bullets
+  6:44 Item: 9 item_armor_shard
+  6:44 Item: 9 item_armor_shard
+  6:45 Kill: 7 0 7: Bitterman killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  6:45 Score: 7 12
+  6:45 Item: 9 weapon_shotgun
+  6:45 Kill: 4 7 3: Uriel killed Bitterman by MOD_MACHINEGUN
+  6:45 Score: 4 4
+  6:46 Item: 3 weapon_rocketlauncher
+  6:46 Item: 2 weapon_plasmagun
+  6:46 Item: 5 item_armor_shard
+  6:47 Item: 5 item_armor_shard
+  6:47 Item: 8 weapon_rocketlauncher
+  6:47 Kill: 3 9 7: ^1A^2n^3a^4r^5k^6i killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  6:47 Score: 3 4
+  6:48 Item: 3 weapon_shotgun
+  6:49 Kill: 3 6 6: ^1A^2n^3a^4r^5k^6i killed Razor by MOD_ROCKET
+  6:49 Score: 3 5
+  6:51 Item: 7 weapon_shotgun
+  6:51 Kill: 8 5 6: Doom killed Gorre by MOD_ROCKET
+  6:51 Score: 8 5
+  6:52 Item: 4 item_health
+  6:52 Item: 4 item_health
+  6:52 Kill: 2 8 8: Wrack killed Doom by MOD_PLASMA
+  6:52 Score: 2 3
+  6:54 Item: 0 weapon_rocketlauncher
+  6:54 Kill: 3 0 7: ^1A^2n^3a^4r^5k^6i killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  6:54 Score: 3 6
+  6:54 Kill: 10 9 3: Ranger killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  6:54 Score: 10 6
+  6:54 Item: 6 weapon_rocketlauncher
+  6:55 Kill: 3 2 6: ^1A^2n^3a^4r^5k^6i killed Wrack by MOD_ROCKET
+  6:55 Score: 3 7
+  6:55 Kill: 3 10 7: ^1A^2n^3a^4r^5k^6i killed Ranger by MOD_ROCKET_SPLASH
+  6:55 Score: 3 8
+  6:55 Kill: 3 6 7: ^1A^2n^3a^4r^5k^6i killed Razor by MOD_ROCKET_SPLASH
+  6:55 Score: 3 9
+  6:56 Item: 7 weapon_plasmagun
+  6:56 Item: 4 weapon_rocketlauncher
+  6:56 Kill: 7 5 1: Bitterman killed Gorre by MOD_SHOTGUN
+  6:56 Score: 7 13
+  6:57 Kill: 3 4 1: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_SHOTGUN
+  6:57 Score: 3 10
+  6:57 Item: 3 item_health_large
+  6:58 Item: 7 weapon_rocketlauncher
+  6:58 Kill: 3 7 1: ^1A^2n^3a^4r^5k^6i killed Bitterman by MOD_SHOTGUN
+  6:58 Score: 3 11
+  6:58 Item: 8 weapon_shotgun
+  7:00 Item: 2 weapon_rocketlauncher
+  7:01 Kill: 6 0 3: Razor killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+  7:01 Score: 6 5
+  7:03 Item: 3 weapon_plasmagun
+  7:03 Item: 9 ammo_cells
+  7:04 Kill: 9 10 3: ^6L^3akerbo^6T killed Ranger by MOD_MACHINEGUN
+  7:04 Score: 9 7
+  7:04 Kill: 2 6 7: Wrack killed Razor by MOD_ROCKET_SPLASH
+  7:04 Score: 2 4
+  7:04 Item: 4 weapon_shotgun
+  7:05 Item: 9 weapon_rocketlauncher
+  7:06 Kill: 7 4 3: Bitterman killed Uriel by MOD_MACHINEGUN
+  7:06 Score: 7 14
+  7:06 Item: 2 weapon_shotgun
+  7:07 Item: 6 item_armor_shard
+  7:07 Kill: 9 8 7: ^6L^3akerbo^6T killed Doom by MOD_ROCKET_SPLASH
+  7:07 Score: 9 8
+  7:07 Kill: 9 5 7: ^6L^3akerbo^6T killed Gorre by MOD_ROCKET_SPLASH
+  7:07 Score: 9 9
+  7:08 Kill: 0 3 2: ^3Mr.^7Gauntlet killed ^1A^2n^3a^4r^5k^6i by MOD_GAUNTLET
+  7:08 Score: 0 5
+  7:08 Item: 9 weapon_shotgun
+  7:09 Item: 7 item_health
+  7:09 Kill: 2 10 6: Wrack killed Ranger by MOD_ROCKET
+  7:09 Score: 2 5
+  7:09 Kill: 9 0 6: ^6L^3akerbo^6T killed ^3Mr.^7Gauntlet by MOD_ROCKET
+  7:09 Score: 9 10
+  7:09 Kill: 9 9 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  7:09 Score: 9 9
+  7:10 Item: 7 item_armor_shard
+  7:10 Item: 7 item_armor_shard
+  7:10 Item: 6 weapon_shotgun
+  7:10 Item: 7 item_armor_shard
+  7:10 Kill: 2 2 7: Wrack killed Wrack by MOD_ROCKET_SPLASH
+  7:10 Score: 2 4
+  7:11 Item: 4 weapon_rocketlauncher
+  7:11 Item: 8 weapon_plasmagun
+  7:12 Item: 6 weapon_rocketlauncher
+  7:12 Item: 9 weapon_plasmagun
+  7:12 Kill: 4 3 6: Uriel killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  7:12 Score: 4 5
+  7:12 Kill: 4 8 7: Uriel killed Doom by MOD_ROCKET_SPLASH
+  7:12 Score: 4 6
+  7:13 Item: 5 weapon_plasmagun
+  7:13 Kill: 4 4 7: Uriel killed Uriel by MOD_ROCKET_SPLASH
+  7:13 Score: 4 5
+  7:13 Kill: 6 5 6: Razor killed Gorre by MOD_ROCKET
+  7:13 Score: 6 6
+  7:14 Item: 2 ammo_bullets
+  7:14 Item: 2 weapon_plasmagun
+  7:14 Item: 0 weapon_rocketlauncher
+  7:14 Item: 2 weapon_rocketlauncher
+  7:15 Kill: 2 6 8: Wrack killed Razor by MOD_PLASMA
+  7:15 Score: 2 5
+  7:15 Kill: 10 2 3: Ranger killed Wrack by MOD_MACHINEGUN
+  7:15 Score: 10 7
+  7:16 Item: 5 item_armor_shard
+  7:16 Item: 5 item_armor_shard
+  7:17 Item: 10 weapon_plasmagun
+  7:17 Kill: 9 4 8: ^6L^3akerbo^6T killed Uriel by MOD_PLASMA
+  7:17 Score: 9 10
+  7:17 Item: 10 weapon_rocketlauncher
+  7:18 Item: 7 ammo_shells
+  7:18 Item: 2 weapon_plasmagun
+  7:19 Item: 5 weapon_shotgun
+  7:19 Kill: 10 8 7: Ranger killed Doom by MOD_ROCKET_SPLASH
+  7:19 Score: 10 8
+  7:19 Kill: 9 10 9: ^6L^3akerbo^6T killed Ranger by MOD_PLASMA_SPLASH
+  7:19 Score: 9 11
+  7:19 Kill: 5 3 1: Gorre killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+  7:19 Score: 5 8
+  7:19 Kill: 2 7 8: Wrack killed Bitterman by MOD_PLASMA
+  7:19 Score: 2 6
+  7:23 Kill: 6 9 3: Razor killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  7:23 Score: 6 7
+  7:23 Item: 5 weapon_plasmagun
+  7:23 Item: 6 weapon_plasmagun
+  7:23 Kill: 2 6 8: Wrack killed Razor by MOD_PLASMA
+  7:23 Score: 2 7
+  7:24 Item: 8 weapon_rocketlauncher
+  7:24 Item: 3 weapon_rocketlauncher
+  7:25 Kill: 3 10 6: ^1A^2n^3a^4r^5k^6i killed Ranger by MOD_ROCKET
+  7:25 Score: 3 12
+  7:27 Kill: 3 7 7: ^1A^2n^3a^4r^5k^6i killed Bitterman by MOD_ROCKET_SPLASH
+  7:27 Score: 3 13
+  7:27 Kill: 8 3 6: Doom killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  7:27 Score: 8 6
+  7:27 Kill: 8 9 7: Doom killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  7:27 Score: 8 7
+  7:28 Kill: 8 2 7: Doom killed Wrack by MOD_ROCKET_SPLASH
+  7:28 Score: 8 8
+  7:28 Item: 5 weapon_plasmagun
+  7:29 Kill: 10 4 3: Ranger killed Uriel by MOD_MACHINEGUN
+  7:29 Score: 10 9
+  7:29 Item: 6 weapon_shotgun
+  7:29 Item: 10 weapon_rocketlauncher
+  7:29 ShutdownGame:
+  7:29 ------------------------------------------------------------
+  7:29 ------------------------------------------------------------
+  7:29 InitGame: \bot_minplayers\10\fraglimit\25\g_gametype\0\mapname\q3tourney1\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_dlURL\ftp://76.131.236.25/quake3\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\10\version\Q3 1.32e macos-aarch64 Jan 26 2025\Info\1k		 3          	3  3 3 3 3 3 3 3 3 3 	1k 3S 1k 1k 1k 1k 1k 1k 1k 1k 1k 	\Uptime\0:07:29\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3 DEFAULT.cfg 70f990036efe93700b61d9f403823b1b ^0/ ^7Q^13^7Plus^4 v3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  7:29 ServerTime: 20250225202822 20:28:22 (25 Feb 2025)
+  7:29 TeamName: 1 ^1RED
+  7:29 TeamName: 2 ^4BLUE
+  7:29 Warmup:
+  7:30 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 0 n\^3Mr.^7Gauntlet\t\0\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 ClientBegin: 0
+  7:30 ClientConnect: 1 \ip\192.168.5.129\guid\09A452A4807B9C5E9213048814AF5982\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  7:30 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 2 n\Wrack\t\0\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 ClientBegin: 2
+  7:30 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 3 n\^1A^2n^3a^4r^5k^6i\t\0\ts\0\model\anarki\hmodel\anarki\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 ClientBegin: 3
+  7:30 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 4 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 ClientBegin: 4
+  7:30 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 5 n\Gorre\t\0\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 ClientBegin: 5
+  7:30 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 6 n\Razor\t\0\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 ClientBegin: 6
+  7:30 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 7 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 Kill: 7 4 18: Bitterman killed Uriel by MOD_TELEFRAG
+  7:30 ClientBegin: 7
+  7:30 ClientConnect: 8 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 8 n\Doom\t\0\ts\0\model\doom\hmodel\doom\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 Kill: 8 0 18: Doom killed ^3Mr.^7Gauntlet by MOD_TELEFRAG
+  7:30 ClientBegin: 8
+  7:30 ClientConnect: 9 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 9 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 Kill: 9 7 18: ^6L^3akerbo^6T killed Bitterman by MOD_TELEFRAG
+  7:30 ClientBegin: 9
+  7:30 ClientConnect: 10 \ip\localhost\guid\\tld\\country\Unknown Location
+  7:30 ClientUserinfoChanged: 10 n\Ranger\t\0\ts\0\model\ranger\hmodel\ranger\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  7:30 Kill: 10 2 18: Ranger killed Wrack by MOD_TELEFRAG
+  7:30 ClientBegin: 10
+  7:30 Warmup:
+  7:31 Item: 3 ammo_rockets
+  7:31 Item: 10 weapon_rocketlauncher
+  7:31 Item: 6 weapon_shotgun
+  7:31 Item: 5 ammo_rockets
+  7:32 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  7:32 ClientBegin: 1
+  7:32 Item: 6 ammo_shells
+  7:32 Item: 5 item_armor_combat
+  7:32 Item: 8 ammo_rockets
+  7:32 Item: 7 ammo_shells
+  7:32 Item: 8 ammo_bullets
+  7:35 Item: 4 item_health_large
+  7:35 Item: 4 item_health
+  7:36 Item: 3 weapon_shotgun
+  7:36 Kill: 10 0 7: Ranger killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  7:37 Kill: 6 2 1: Razor killed Wrack by MOD_SHOTGUN
+  7:37 Kill: 8 7 3: Doom killed Bitterman by MOD_MACHINEGUN
+  7:37 Item: 9 item_health
+  7:37 Item: 9 item_health
+  7:38 Kill: 3 4 1: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_SHOTGUN
+  7:38 Kill: 10 9 6: Ranger killed ^6L^3akerbo^6T by MOD_ROCKET
+  7:38 Kill: 6 8 1: Razor killed Doom by MOD_SHOTGUN
+  7:40 Kill: 6 10 1: Razor killed Ranger by MOD_SHOTGUN
+  7:40 Item: 6 weapon_rocketlauncher
+  7:40 Item: 8 weapon_rocketlauncher
+  7:42 Item: 3 item_health_large
+  7:42 Kill: 8 5 6: Doom killed Gorre by MOD_ROCKET
+  7:42 Item: 3 item_health
+  7:42 Kill: 8 6 6: Doom killed Razor by MOD_ROCKET
+  7:44 Item: 4 weapon_rocketlauncher
+  7:44 Item: 7 weapon_shotgun
+  7:45 Kill: 10 0 3: Ranger killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+  7:46 Kill: 8 4 7: Doom killed Uriel by MOD_ROCKET_SPLASH
+  7:46 Item: 3 weapon_rocketlauncher
+  7:48 Kill: 9 7 3: ^6L^3akerbo^6T killed Bitterman by MOD_MACHINEGUN
+  7:49 Kill: 10 8 3: Ranger killed Doom by MOD_MACHINEGUN
+  7:49 Item: 10 weapon_rocketlauncher
+  7:49 Item: 9 weapon_shotgun
+  7:49 Item: 3 weapon_rocketlauncher
+  7:50 Kill: 3 2 6: ^1A^2n^3a^4r^5k^6i killed Wrack by MOD_ROCKET
+  7:50 Kill: 6 5 3: Razor killed Gorre by MOD_MACHINEGUN
+  7:52 Item: 8 weapon_shotgun
+  7:56 Item: 9 weapon_rocketlauncher
+  7:58 Item: 5 ammo_bullets
+  8:00 ShutdownGame:
+  8:00 ------------------------------------------------------------
+  8:00 ------------------------------------------------------------
+  8:00 InitGame: \bot_minplayers\10\fraglimit\25\g_gametype\0\mapname\q3tourney1\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_dlURL\ftp://76.131.236.25/quake3\sv_floodProtect\1\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\10\version\Q3 1.32e macos-aarch64 Jan 26 2025\Info\u	2	 3          	3  3 3 3 3 3 3 3 3 3 	u 3| u u u u u u u u u 	\Uptime\0:08:00\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3 DEFAULT.cfg 70f990036efe93700b61d9f403823b1b ^0/ ^7Q^13^7Plus^4 v3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+  8:00 ServerTime: 20250225202852 20:28:52 (25 Feb 2025)
+  8:00 TeamName: 1 ^1RED
+  8:00 TeamName: 2 ^4BLUE
+  8:00 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 0 n\^3Mr.^7Gauntlet\t\0\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 0
+  8:00 ClientConnect: 1 \ip\192.168.5.129\guid\09A452A4807B9C5E9213048814AF5982\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  8:00 ClientBegin: 1
+  8:00 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 2 n\Wrack\t\0\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 2
+  8:00 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 3 n\^1A^2n^3a^4r^5k^6i\t\0\ts\0\model\anarki\hmodel\anarki\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 3
+  8:00 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 4 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 4
+  8:00 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 5 n\Gorre\t\0\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 5
+  8:00 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 6 n\Razor\t\0\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 6
+  8:00 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 7 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 7
+  8:00 ClientConnect: 8 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 8 n\Doom\t\0\ts\0\model\doom\hmodel\doom\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 8
+  8:00 ClientConnect: 9 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 9 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 9
+  8:00 ClientConnect: 10 \ip\localhost\guid\\tld\\country\Unknown Location
+  8:00 ClientUserinfoChanged: 10 n\Ranger\t\0\ts\0\model\ranger\hmodel\ranger\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+  8:00 ClientBegin: 10
+  8:00 Kill: 7 4 18: Bitterman killed Uriel by MOD_TELEFRAG
+  8:00 Score: 7 1
+  8:00 Kill: 8 2 18: Doom killed Wrack by MOD_TELEFRAG
+  8:00 Score: 8 1
+  8:00 Kill: 9 7 18: ^6L^3akerbo^6T killed Bitterman by MOD_TELEFRAG
+  8:00 Score: 9 1
+  8:00 Kill: 10 9 18: Ranger killed ^6L^3akerbo^6T by MOD_TELEFRAG
+  8:00 Score: 10 1
+  8:00 Item: 0 weapon_rocketlauncher
+  8:01 Item: 3 item_armor_combat
+  8:01 Item: 10 weapon_shotgun
+  8:02 Item: 2 ammo_rockets
+  8:02 Item: 10 ammo_shells
+  8:05 Kill: 3 6 3: ^1A^2n^3a^4r^5k^6i killed Razor by MOD_MACHINEGUN
+  8:05 Score: 3 1
+  8:05 Kill: 0 5 2: ^3Mr.^7Gauntlet killed Gorre by MOD_GAUNTLET
+  8:05 Score: 0 1
+  8:07 Item: 2 item_health
+  8:07 Kill: 3 4 3: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_MACHINEGUN
+  8:07 Score: 3 2
+  8:07 Item: 2 item_health
+  8:08 Kill: 10 9 1: Ranger killed ^6L^3akerbo^6T by MOD_SHOTGUN
+  8:08 Score: 10 2
+  8:08 Item: 5 ammo_rockets
+  8:08 Kill: 2 3 3: Wrack killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+  8:08 Score: 2 1
+  8:09 Item: 2 weapon_rocketlauncher
+  8:10 Item: 4 weapon_shotgun
+  8:11 Item: 9 ammo_shells
+  8:12 Kill: 0 5 2: ^3Mr.^7Gauntlet killed Gorre by MOD_GAUNTLET
+  8:12 Score: 0 2
+  8:12 Kill: 2 8 7: Wrack killed Doom by MOD_ROCKET_SPLASH
+  8:12 Score: 2 2
+  8:12 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+  8:12 Score: 0 3
+  8:12 Item: 0 weapon_shotgun
+  8:12 Item: 6 ammo_bullets
+  8:14 Item: 5 weapon_rocketlauncher
+  8:14 Kill: 4 7 1: Uriel killed Bitterman by MOD_SHOTGUN
+  8:14 Score: 4 1
+  8:15 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+  8:15 Score: 0 4
+  8:15 Item: 10 weapon_shotgun
+  8:17 Item: 8 ammo_rockets
+  8:17 Item: 8 ammo_bullets
+  8:17 Item: 6 item_health_large
+  8:18 Item: 0 item_health_large
+  8:18 Item: 4 item_health
+  8:19 Kill: 2 3 7: Wrack killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET_SPLASH
+  8:19 Score: 2 3
+  8:19 Item: 0 item_health
+  8:19 Kill: 2 6 6: Wrack killed Razor by MOD_ROCKET
+  8:19 Score: 2 4
+  8:19 Kill: 2 2 7: Wrack killed Wrack by MOD_ROCKET_SPLASH
+  8:19 Score: 2 3
+  8:20 Item: 4 weapon_rocketlauncher
+  8:20 Kill: 9 7 3: ^6L^3akerbo^6T killed Bitterman by MOD_MACHINEGUN
+  8:20 Score: 9 2
+  8:21 Item: 3 weapon_rocketlauncher
+  8:21 Kill: 8 10 3: Doom killed Ranger by MOD_MACHINEGUN
+  8:21 Score: 8 2
+  8:21 Item: 9 weapon_shotgun
+  8:21 Kill: 5 9 6: Gorre killed ^6L^3akerbo^6T by MOD_ROCKET
+  8:21 Score: 5 1
+  8:22 Kill: 4 5 6: Uriel killed Gorre by MOD_ROCKET
+  8:22 Score: 4 2
+  8:23 Kill: 4 7 6: Uriel killed Bitterman by MOD_ROCKET
+  8:23 Score: 4 3
+  8:24 Item: 8 weapon_rocketlauncher
+  8:25 Kill: 8 4 6: Doom killed Uriel by MOD_ROCKET
+  8:25 Score: 8 3
+  8:25 Item: 6 weapon_rocketlauncher
+  8:26 Item: 10 item_armor_combat
+  8:26 Item: 7 weapon_shotgun
+  8:27 Kill: 6 8 6: Razor killed Doom by MOD_ROCKET
+  8:27 Score: 6 1
+  8:27 Kill: 2 9 3: Wrack killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  8:27 Score: 2 4
+  8:29 Kill: 6 2 7: Razor killed Wrack by MOD_ROCKET_SPLASH
+  8:29 Score: 6 2
+  8:29 Item: 10 weapon_rocketlauncher
+  8:30 Item: 8 weapon_shotgun
+  8:30 Kill: 10 5 6: Ranger killed Gorre by MOD_ROCKET
+  8:30 Score: 10 3
+  8:31 Kill: 10 6 6: Ranger killed Razor by MOD_ROCKET
+  8:31 Score: 10 4
+  8:31 Kill: 3 10 6: ^1A^2n^3a^4r^5k^6i killed Ranger by MOD_ROCKET
+  8:31 Score: 3 3
+  8:32 Item: 7 weapon_rocketlauncher
+  8:32 Item: 7 weapon_rocketlauncher
+  8:32 Kill: 8 0 1: Doom killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  8:32 Score: 8 4
+  8:33 Item: 6 weapon_rocketlauncher
+  8:34 Item: 9 ammo_rockets
+  8:34 Kill: 9 3 3: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+  8:34 Score: 9 3
+  8:35 Kill: 7 9 1: Bitterman killed ^6L^3akerbo^6T by MOD_SHOTGUN
+  8:35 Score: 7 2
+  8:35 Item: 8 weapon_rocketlauncher
+  8:36 Kill: 6 4 7: Razor killed Uriel by MOD_ROCKET_SPLASH
+  8:36 Score: 6 3
+  8:36 Kill: 7 8 1: Bitterman killed Doom by MOD_SHOTGUN
+  8:36 Score: 7 3
+  8:36 Item: 7 weapon_shotgun
+  8:37 Item: 3 weapon_shotgun
+  8:38 Item: 3 ammo_shells
+  8:39 Item: 3 ammo_rockets
+  8:40 Item: 2 weapon_rocketlauncher
+  8:41 Kill: 2 10 7: Wrack killed Ranger by MOD_ROCKET_SPLASH
+  8:41 Score: 2 5
+  8:41 Kill: 2 5 7: Wrack killed Gorre by MOD_ROCKET_SPLASH
+  8:41 Score: 2 6
+  8:42 Kill: 3 4 1: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_SHOTGUN
+  8:42 Score: 3 4
+  8:42 Kill: 7 0 1: Bitterman killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  8:42 Score: 7 4
+  8:42 Item: 2 item_health
+  8:44 Kill: 3 6 1: ^1A^2n^3a^4r^5k^6i killed Razor by MOD_SHOTGUN
+  8:44 Score: 3 5
+  8:44 Item: 7 weapon_rocketlauncher
+  8:44 Item: 4 weapon_rocketlauncher
+  8:44 Item: 5 item_regen
+  8:45 Kill: 3 8 1: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_SHOTGUN
+  8:45 Score: 3 6
+  8:45 Kill: 2 3 6: Wrack killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  8:45 Score: 2 7
+  8:46 Item: 9 weapon_shotgun
+  8:47 Item: 6 ammo_shells
+  8:47 Kill: 9 2 1: ^6L^3akerbo^6T killed Wrack by MOD_SHOTGUN
+  8:47 Score: 9 4
+  8:47 Item: 3 weapon_rocketlauncher
+  8:47 Kill: 6 7 3: Razor killed Bitterman by MOD_MACHINEGUN
+  8:47 Score: 6 4
+  8:47 Item: 9 weapon_shotgun
+  8:48 Kill: 9 0 1: ^6L^3akerbo^6T killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  8:48 Score: 9 5
+  8:48 Item: 8 weapon_shotgun
+  8:50 Item: 9 weapon_rocketlauncher
+  8:50 Kill: 6 9 3: Razor killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  8:50 Score: 6 5
+  8:50 Kill: 5 10 3: Gorre killed Ranger by MOD_MACHINEGUN
+  8:50 Score: 5 2
+  8:50 Item: 6 weapon_shotgun
+  8:50 Item: 0 weapon_rocketlauncher
+  8:51 Kill: 4 5 6: Uriel killed Gorre by MOD_ROCKET
+  8:51 Score: 4 4
+  8:51 Item: 8 item_armor_combat
+  8:51 Kill: 8 6 1: Doom killed Razor by MOD_SHOTGUN
+  8:51 Score: 8 5
+  8:53 Item: 9 weapon_shotgun
+  8:53 Kill: 0 3 2: ^3Mr.^7Gauntlet killed ^1A^2n^3a^4r^5k^6i by MOD_GAUNTLET
+  8:53 Score: 0 5
+  8:53 Item: 0 weapon_rocketlauncher
+  8:53 Item: 0 item_health
+  8:53 Item: 4 weapon_shotgun
+  8:54 Item: 4 item_regen
+  8:54 Item: 8 ammo_bullets
+  8:55 Kill: 7 8 3: Bitterman killed Doom by MOD_MACHINEGUN
+  8:55 Score: 7 5
+  8:56 Item: 7 item_health_large
+  8:56 Item: 7 item_health
+  8:56 Kill: 9 6 1: ^6L^3akerbo^6T killed Razor by MOD_SHOTGUN
+  8:56 Score: 9 6
+  8:57 Kill: 0 2 2: ^3Mr.^7Gauntlet killed Wrack by MOD_GAUNTLET
+  8:57 Score: 0 6
+  8:57 Item: 7 weapon_shotgun
+  8:57 Item: 8 weapon_rocketlauncher
+  8:58 Kill: 0 4 2: ^3Mr.^7Gauntlet killed Uriel by MOD_GAUNTLET
+  8:58 Score: 0 7
+  8:58 Item: 10 item_regen
+  8:58 Item: 10 weapon_rocketlauncher
+  8:58 Kill: 7 10 1: Bitterman killed Ranger by MOD_SHOTGUN
+  8:58 Score: 7 6
+  8:58 Item: 5 item_regen
+  9:00 Kill: 7 5 1: Bitterman killed Gorre by MOD_SHOTGUN
+  9:00 Score: 7 7
+  9:00 Kill: 9 7 1: ^6L^3akerbo^6T killed Bitterman by MOD_SHOTGUN
+  9:00 Score: 9 7
+  9:00 Item: 3 weapon_rocketlauncher
+  9:01 Item: 10 weapon_shotgun
+  9:02 Item: 3 weapon_shotgun
+  9:02 Item: 7 weapon_rocketlauncher
+  9:03 Item: 0 item_health_large
+  9:03 Item: 0 item_health
+  9:03 Item: 6 item_regen
+  9:03 Kill: 8 4 7: Doom killed Uriel by MOD_ROCKET_SPLASH
+  9:03 Score: 8 6
+  9:04 Kill: 9 8 1: ^6L^3akerbo^6T killed Doom by MOD_SHOTGUN
+  9:04 Score: 9 8
+  9:04 Kill: 3 2 7: ^1A^2n^3a^4r^5k^6i killed Wrack by MOD_ROCKET_SPLASH
+  9:04 Score: 3 7
+  9:04 Item: 9 weapon_rocketlauncher
+  9:05 Item: 3 ammo_rockets
+  9:06 Kill: 9 9 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  9:06 Score: 9 7
+  9:06 Item: 7 weapon_rocketlauncher
+  9:07 Item: 2 weapon_rocketlauncher
+  9:08 Kill: 8 6 3: Doom killed Razor by MOD_MACHINEGUN
+  9:08 Score: 8 7
+  9:08 Item: 8 item_regen
+  9:09 Kill: 3 0 7: ^1A^2n^3a^4r^5k^6i killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  9:09 Score: 3 8
+  9:09 Kill: 7 10 7: Bitterman killed Ranger by MOD_ROCKET_SPLASH
+  9:09 Score: 7 8
+  9:09 Kill: 7 5 7: Bitterman killed Gorre by MOD_ROCKET_SPLASH
+  9:09 Score: 7 9
+  9:10 Kill: 3 4 7: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_ROCKET_SPLASH
+  9:10 Score: 3 9
+  9:10 Kill: 2 7 7: Wrack killed Bitterman by MOD_ROCKET_SPLASH
+  9:10 Score: 2 8
+  9:11 Item: 3 weapon_shotgun
+  9:11 Kill: 9 8 3: ^6L^3akerbo^6T killed Doom by MOD_MACHINEGUN
+  9:11 Score: 9 8
+  9:11 Item: 10 weapon_rocketlauncher
+  9:12 Item: 5 weapon_shotgun
+  9:12 Item: 9 item_regen
+  9:13 Item: 5 ammo_shells
+  9:14 Item: 3 weapon_rocketlauncher
+  9:14 Item: 5 ammo_rockets
+  9:15 Kill: 10 10 7: Ranger killed Ranger by MOD_ROCKET_SPLASH
+  9:15 Score: 10 3
+  9:15 Kill: 3 2 7: ^1A^2n^3a^4r^5k^6i killed Wrack by MOD_ROCKET_SPLASH
+  9:15 Score: 3 10
+  9:15 Item: 6 weapon_rocketlauncher
+  9:16 Kill: 9 6 3: ^6L^3akerbo^6T killed Razor by MOD_MACHINEGUN
+  9:16 Score: 9 9
+  9:17 Item: 9 weapon_rocketlauncher
+  9:17 Item: 3 weapon_rocketlauncher
+  9:17 Item: 2 weapon_rocketlauncher
+  9:18 Kill: 8 4 3: Doom killed Uriel by MOD_MACHINEGUN
+  9:18 Score: 8 8
+  9:18 Kill: 3 5 7: ^1A^2n^3a^4r^5k^6i killed Gorre by MOD_ROCKET_SPLASH
+  9:18 Score: 3 11
+  9:18 Kill: 3 0 7: ^1A^2n^3a^4r^5k^6i killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+  9:18 Score: 3 12
+  9:18 Item: 10 weapon_shotgun
+  9:18 Kill: 2 9 7: Wrack killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  9:18 Score: 2 9
+  9:19 Item: 6 ammo_shells
+  9:19 Item: 8 weapon_shotgun
+  9:20 Item: 2 weapon_rocketlauncher
+  9:20 Kill: 3 8 6: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_ROCKET
+  9:20 Score: 3 13
+  9:20 Kill: 3 3 7: ^1A^2n^3a^4r^5k^6i killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET_SPLASH
+  9:20 Score: 3 12
+  9:20 Item: 0 weapon_rocketlauncher
+  9:21 Kill: 7 2 3: Bitterman killed Wrack by MOD_MACHINEGUN
+  9:21 Score: 7 10
+  9:21 Item: 6 item_armor_combat
+  9:21 Item: 7 weapon_rocketlauncher
+  9:22 Kill: 10 6 1: Ranger killed Razor by MOD_SHOTGUN
+  9:22 Score: 10 4
+  9:22 Item: 7 item_health
+  9:23 Kill: 10 4 1: Ranger killed Uriel by MOD_SHOTGUN
+  9:23 Score: 10 5
+  9:23 Item: 8 weapon_shotgun
+  9:24 Item: 7 weapon_shotgun
+  9:24 Item: 0 weapon_rocketlauncher
+  9:27 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+  9:27 Score: 0 8
+  9:27 Item: 5 weapon_shotgun
+  9:29 Kill: 2 9 3: Wrack killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  9:29 Score: 2 10
+  9:30 Item: 2 item_health
+  9:31 Kill: 2 0 3: Wrack killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+  9:31 Score: 2 11
+  9:31 Kill: 8 7 1: Doom killed Bitterman by MOD_SHOTGUN
+  9:31 Score: 8 9
+  9:31 Item: 8 weapon_shotgun
+  9:32 Kill: 5 8 1: Gorre killed Doom by MOD_SHOTGUN
+  9:32 Score: 5 3
+  9:32 Item: 2 weapon_rocketlauncher
+  9:33 Kill: 2 5 6: Wrack killed Gorre by MOD_ROCKET
+  9:33 Score: 2 12
+  9:34 Item: 3 weapon_shotgun
+  9:35 Kill: 3 4 1: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_SHOTGUN
+  9:35 Score: 3 13
+  9:35 Item: 2 weapon_shotgun
+  9:35 Kill: 2 6 7: Wrack killed Razor by MOD_ROCKET_SPLASH
+  9:35 Score: 2 13
+  9:35 Kill: 2 2 7: Wrack killed Wrack by MOD_ROCKET_SPLASH
+  9:35 Score: 2 12
+  9:36 Kill: 3 10 1: ^1A^2n^3a^4r^5k^6i killed Ranger by MOD_SHOTGUN
+  9:36 Score: 3 14
+  9:37 Item: 0 ammo_rockets
+  9:38 Item: 3 weapon_rocketlauncher
+  9:38 Item: 4 weapon_shotgun
+  9:40 Kill: 8 5 3: Doom killed Gorre by MOD_MACHINEGUN
+  9:40 Score: 8 10
+  9:40 Item: 9 weapon_rocketlauncher
+  9:41 Kill: 9 7 6: ^6L^3akerbo^6T killed Bitterman by MOD_ROCKET
+  9:41 Score: 9 10
+  9:41 Item: 10 item_health
+  9:41 Item: 10 item_health_large
+  9:42 Kill: 9 3 6: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+  9:42 Score: 9 11
+  9:42 Kill: 10 6 3: Ranger killed Razor by MOD_MACHINEGUN
+  9:42 Score: 10 6
+  9:43 Item: 5 weapon_shotgun
+  9:43 Kill: 10 4 3: Ranger killed Uriel by MOD_MACHINEGUN
+  9:43 Score: 10 7
+  9:43 Item: 2 weapon_shotgun
+  9:43 Item: 9 weapon_rocketlauncher
+  9:44 Item: 5 ammo_shells
+  9:44 Kill: 2 10 1: Wrack killed Ranger by MOD_SHOTGUN
+  9:44 Score: 2 13
+  9:45 Item: 5 ammo_rockets
+  9:45 Kill: 9 8 6: ^6L^3akerbo^6T killed Doom by MOD_ROCKET
+  9:45 Score: 9 12
+  9:45 Item: 0 weapon_rocketlauncher
+  9:46 Kill: 9 9 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+  9:46 Score: 9 11
+  9:46 Kill: 9 2 7: ^6L^3akerbo^6T killed Wrack by MOD_ROCKET_SPLASH
+  9:46 Score: 9 12
+  9:46 Item: 3 item_armor_combat
+  9:47 Item: 10 weapon_shotgun
+  9:48 Item: 0 weapon_shotgun
+  9:48 Kill: 4 7 3: Uriel killed Bitterman by MOD_MACHINEGUN
+  9:48 Score: 4 5
+  9:49 Item: 0 weapon_rocketlauncher
+  9:52 Kill: 0 2 2: ^3Mr.^7Gauntlet killed Wrack by MOD_GAUNTLET
+  9:52 Score: 0 9
+  9:52 Kill: 10 5 1: Ranger killed Gorre by MOD_SHOTGUN
+  9:52 Score: 10 8
+  9:53 Kill: 9 10 3: ^6L^3akerbo^6T killed Ranger by MOD_MACHINEGUN
+  9:53 Score: 9 13
+  9:53 Item: 9 weapon_shotgun
+  9:53 Item: 3 weapon_rocketlauncher
+  9:53 Item: 8 weapon_shotgun
+  9:53 Kill: 9 6 1: ^6L^3akerbo^6T killed Razor by MOD_SHOTGUN
+  9:53 Score: 9 14
+  9:54 Kill: 8 0 1: Doom killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+  9:54 Score: 8 11
+  9:55 Item: 2 weapon_shotgun
+  9:55 Kill: 9 8 1: ^6L^3akerbo^6T killed Doom by MOD_SHOTGUN
+  9:55 Score: 9 15
+  9:55 Item: 9 weapon_shotgun
+  9:56 Kill: 3 4 6: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_ROCKET
+  9:56 Score: 3 15
+  9:56 Kill: 3 3 7: ^1A^2n^3a^4r^5k^6i killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET_SPLASH
+  9:56 Score: 3 14
+  9:56 Kill: 7 9 3: Bitterman killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+  9:56 Score: 7 11
+  9:56 Item: 7 weapon_shotgun
+  9:57 Item: 6 weapon_rocketlauncher
+  9:58 Item: 10 weapon_rocketlauncher
+  9:59 Item: 3 ammo_shells
+  9:59 Item: 7 item_health
+  9:59 Kill: 10 8 7: Ranger killed Doom by MOD_ROCKET_SPLASH
+  9:59 Score: 10 9
+ 10:00 Kill: 6 7 7: Razor killed Bitterman by MOD_ROCKET_SPLASH
+ 10:00 Score: 6 6
+ 10:00 Item: 9 weapon_shotgun
+ 10:02 Kill: 6 9 6: Razor killed ^6L^3akerbo^6T by MOD_ROCKET
+ 10:02 Score: 6 7
+ 10:02 Kill: 2 5 1: Wrack killed Gorre by MOD_SHOTGUN
+ 10:02 Score: 2 14
+ 10:03 Kill: 10 6 6: Ranger killed Razor by MOD_ROCKET
+ 10:03 Score: 10 10
+ 10:03 Item: 7 weapon_shotgun
+ 10:03 Item: 0 weapon_rocketlauncher
+ 10:04 Kill: 2 10 1: Wrack killed Ranger by MOD_SHOTGUN
+ 10:04 Score: 2 15
+ 10:04 Item: 2 weapon_shotgun
+ 10:05 Item: 2 weapon_rocketlauncher
+ 10:06 Item: 0 weapon_rocketlauncher
+ 10:06 Kill: 2 0 6: Wrack killed ^3Mr.^7Gauntlet by MOD_ROCKET
+ 10:06 Score: 2 16
+ 10:07 Item: 2 item_health
+ 10:08 Kill: 3 8 3: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_MACHINEGUN
+ 10:08 Score: 3 15
+ 10:10 Kill: 3 7 3: ^1A^2n^3a^4r^5k^6i killed Bitterman by MOD_MACHINEGUN
+ 10:10 Score: 3 16
+ 10:10 Item: 6 ammo_rockets
+ 10:10 Item: 2 weapon_shotgun
+ 10:10 Kill: 4 5 3: Uriel killed Gorre by MOD_MACHINEGUN
+ 10:10 Score: 4 6
+ 10:10 Kill: 9 3 3: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+ 10:10 Score: 9 16
+ 10:10 Item: 6 ammo_bullets
+ 10:11 Item: 8 weapon_shotgun
+ 10:12 Kill: 0 2 2: ^3Mr.^7Gauntlet killed Wrack by MOD_GAUNTLET
+ 10:12 Score: 0 10
+ 10:12 Item: 0 weapon_rocketlauncher
+ 10:13 Kill: 0 6 2: ^3Mr.^7Gauntlet killed Razor by MOD_GAUNTLET
+ 10:13 Score: 0 11
+ 10:13 Item: 5 item_armor_combat
+ 10:14 Item: 9 weapon_rocketlauncher
+ 10:15 Kill: 8 7 1: Doom killed Bitterman by MOD_SHOTGUN
+ 10:15 Score: 8 12
+ 10:15 Kill: 9 4 6: ^6L^3akerbo^6T killed Uriel by MOD_ROCKET
+ 10:15 Score: 9 17
+ 10:15 Kill: 9 9 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+ 10:15 Score: 9 16
+ 10:15 Item: 10 weapon_rocketlauncher
+ 10:17 Kill: 10 10 7: Ranger killed Ranger by MOD_ROCKET_SPLASH
+ 10:17 Score: 10 9
+ 10:18 Kill: 0 6 2: ^3Mr.^7Gauntlet killed Razor by MOD_GAUNTLET
+ 10:18 Score: 0 12
+ 10:18 Item: 4 weapon_shotgun
+ 10:18 Item: 0 weapon_rocketlauncher
+ 10:18 Item: 9 ammo_rockets
+ 10:19 Kill: 0 5 2: ^3Mr.^7Gauntlet killed Gorre by MOD_GAUNTLET
+ 10:19 Score: 0 13
+ 10:19 Item: 4 ammo_shells
+ 10:20 Kill: 0 8 2: ^3Mr.^7Gauntlet killed Doom by MOD_GAUNTLET
+ 10:20 Score: 0 14
+ 10:21 Item: 0 weapon_rocketlauncher
+ 10:21 Item: 0 weapon_shotgun
+ 10:22 Kill: 2 3 3: Wrack killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+ 10:22 Score: 2 17
+ 10:23 Item: 10 item_health
+ 10:24 Kill: 9 0 3: ^6L^3akerbo^6T killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+ 10:24 Score: 9 17
+ 10:25 Kill: 4 7 1: Uriel killed Bitterman by MOD_SHOTGUN
+ 10:25 Score: 4 7
+ 10:25 Kill: 9 4 3: ^6L^3akerbo^6T killed Uriel by MOD_MACHINEGUN
+ 10:25 Score: 9 18
+ 10:26 Item: 6 weapon_shotgun
+ 10:26 Kill: 2 6 3: Wrack killed Razor by MOD_MACHINEGUN
+ 10:26 Score: 2 18
+ 10:28 Item: 9 weapon_rocketlauncher
+ 10:28 Item: 10 weapon_shotgun
+ 10:29 Kill: 8 2 3: Doom killed Wrack by MOD_MACHINEGUN
+ 10:29 Score: 8 13
+ 10:29 Kill: 9 10 6: ^6L^3akerbo^6T killed Ranger by MOD_ROCKET
+ 10:29 Score: 9 19
+ 10:29 Item: 5 weapon_shotgun
+ 10:30 Kill: 9 5 6: ^6L^3akerbo^6T killed Gorre by MOD_ROCKET
+ 10:30 Score: 9 20
+ 10:30 Kill: 9 9 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+ 10:30 Score: 9 19
+ 10:30 Item: 8 weapon_shotgun
+ 10:30 Item: 8 weapon_rocketlauncher
+ 10:32 Item: 8 weapon_rocketlauncher
+ 10:32 Item: 2 item_quad
+ 10:33 Kill: 8 8 7: Doom killed Doom by MOD_ROCKET_SPLASH
+ 10:33 Score: 8 12
+ 10:33 Item: 5 weapon_shotgun
+ 10:33 Kill: 0 3 2: ^3Mr.^7Gauntlet killed ^1A^2n^3a^4r^5k^6i by MOD_GAUNTLET
+ 10:33 Score: 0 15
+ 10:35 Item: 0 weapon_rocketlauncher
+ 10:35 Kill: 2 9 3: Wrack killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+ 10:35 Score: 2 19
+ 10:35 Item: 2 item_health_large
+ 10:36 Item: 4 weapon_rocketlauncher
+ 10:37 Item: 0 item_health
+ 10:40 Kill: 5 7 1: Gorre killed Bitterman by MOD_SHOTGUN
+ 10:40 Score: 5 4
+ 10:40 Kill: 4 6 7: Uriel killed Razor by MOD_ROCKET_SPLASH
+ 10:40 Score: 4 8
+ 10:41 Kill: 9 5 3: ^6L^3akerbo^6T killed Gorre by MOD_MACHINEGUN
+ 10:41 Score: 9 20
+ 10:43 Kill: 9 0 3: ^6L^3akerbo^6T killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+ 10:43 Score: 9 21
+ 10:43 Item: 3 weapon_shotgun
+ 10:43 Item: 6 ammo_shells
+ 10:43 Kill: 3 8 1: ^1A^2n^3a^4r^5k^6i killed Doom by MOD_SHOTGUN
+ 10:43 Score: 3 17
+ 10:44 Item: 9 ammo_rockets
+ 10:44 Item: 2 ammo_bullets
+ 10:45 Item: 5 weapon_shotgun
+ 10:45 Item: 6 item_armor_combat
+ 10:45 Kill: 4 10 6: Uriel killed Ranger by MOD_ROCKET
+ 10:45 Score: 4 9
+ 10:46 Item: 3 item_health
+ 10:46 Kill: 4 9 6: Uriel killed ^6L^3akerbo^6T by MOD_ROCKET
+ 10:46 Score: 4 10
+ 10:48 Item: 3 weapon_rocketlauncher
+ 10:48 Kill: 5 2 1: Gorre killed Wrack by MOD_SHOTGUN
+ 10:48 Score: 5 5
+ 10:48 Kill: 4 6 6: Uriel killed Razor by MOD_ROCKET
+ 10:48 Score: 4 11
+ 10:48 Kill: 4 7 7: Uriel killed Bitterman by MOD_ROCKET_SPLASH
+ 10:48 Score: 4 12
+ 10:49 Kill: 9 3 3: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+ 10:49 Score: 9 22
+ 10:50 Item: 0 item_quad
+ 10:50 Kill: 0 8 2: ^3Mr.^7Gauntlet killed Doom by MOD_GAUNTLET
+ 10:50 Score: 0 16
+ 10:50 Kill: 5 4 1: Gorre killed Uriel by MOD_SHOTGUN
+ 10:50 Score: 5 6
+ 10:51 Item: 9 weapon_rocketlauncher
+ 10:52 Item: 7 ammo_rockets
+ 10:52 Item: 2 weapon_shotgun
+ 10:52 Kill: 9 5 6: ^6L^3akerbo^6T killed Gorre by MOD_ROCKET
+ 10:52 Score: 9 23
+ 10:52 Item: 0 weapon_shotgun
+ 10:53 Item: 4 weapon_rocketlauncher
+ 10:53 Item: 2 ammo_shells
+ 10:53 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+ 10:53 Score: 0 17
+ 10:53 Item: 0 weapon_rocketlauncher
+ 10:54 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+ 10:54 Score: 0 18
+ 10:55 Kill: 7 3 3: Bitterman killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+ 10:55 Score: 7 12
+ 10:57 Item: 10 weapon_shotgun
+ 10:58 Item: 6 weapon_rocketlauncher
+ 10:59 Kill: 4 7 7: Uriel killed Bitterman by MOD_ROCKET_SPLASH
+ 10:59 Score: 4 13
+ 10:59 Kill: 0 8 2: ^3Mr.^7Gauntlet killed Doom by MOD_GAUNTLET
+ 10:59 Score: 0 19
+ 10:59 Kill: 0 5 2: ^3Mr.^7Gauntlet killed Gorre by MOD_GAUNTLET
+ 10:59 Score: 0 20
+ 11:00 Kill: 10 2 1: Ranger killed Wrack by MOD_SHOTGUN
+ 11:00 Score: 10 10
+ 11:00 Item: 0 weapon_shotgun
+ 11:00 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+ 11:00 Score: 0 21
+ 11:01 Item: 8 weapon_rocketlauncher
+ 11:03 Item: 2 weapon_shotgun
+ 11:03 Kill: 7 0 3: Bitterman killed ^3Mr.^7Gauntlet by MOD_MACHINEGUN
+ 11:03 Score: 7 13
+ 11:03 Item: 7 item_quad
+ 11:03 Kill: 6 10 6: Razor killed Ranger by MOD_ROCKET
+ 11:03 Score: 6 8
+ 11:03 Kill: 6 6 7: Razor killed Razor by MOD_ROCKET_SPLASH
+ 11:03 Score: 6 7
+ 11:04 Item: 3 weapon_rocketlauncher
+ 11:04 Kill: 8 4 7: Doom killed Uriel by MOD_ROCKET_SPLASH
+ 11:04 Score: 8 13
+ 11:06 Kill: 5 3 3: Gorre killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+ 11:06 Score: 5 7
+ 11:06 Item: 5 weapon_rocketlauncher
+ 11:06 Item: 8 weapon_rocketlauncher
+ 11:07 Kill: 6 2 3: Razor killed Wrack by MOD_MACHINEGUN
+ 11:07 Score: 6 8
+ 11:08 Item: 6 weapon_shotgun
+ 11:08 Kill: 5 9 7: Gorre killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+ 11:08 Score: 5 8
+ 11:09 Item: 3 weapon_shotgun
+ 11:09 Kill: 6 4 1: Razor killed Uriel by MOD_SHOTGUN
+ 11:09 Score: 6 9
+ 11:10 Kill: 8 6 7: Doom killed Razor by MOD_ROCKET_SPLASH
+ 11:10 Score: 8 14
+ 11:10 Item: 2 weapon_rocketlauncher
+ 11:10 Item: 0 weapon_shotgun
+ 11:10 Kill: 5 10 6: Gorre killed Ranger by MOD_ROCKET
+ 11:10 Score: 5 9
+ 11:11 Item: 8 weapon_shotgun
+ 11:11 Item: 5 item_health_large
+ 11:12 Item: 3 item_armor_combat
+ 11:12 Item: 4 weapon_shotgun
+ 11:13 Kill: 2 0 6: Wrack killed ^3Mr.^7Gauntlet by MOD_ROCKET
+ 11:13 Score: 2 20
+ 11:14 Item: 7 item_health
+ 11:14 Kill: 8 5 7: Doom killed Gorre by MOD_ROCKET_SPLASH
+ 11:14 Score: 8 15
+ 11:15 Item: 8 weapon_rocketlauncher
+ 11:15 Kill: 8 9 6: Doom killed ^6L^3akerbo^6T by MOD_ROCKET
+ 11:15 Score: 8 16
+ 11:16 Kill: 2 3 6: Wrack killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+ 11:16 Score: 2 21
+ 11:16 Kill: 2 8 7: Wrack killed Doom by MOD_ROCKET_SPLASH
+ 11:16 Score: 2 22
+ 11:16 Item: 6 ammo_rockets
+ 11:17 Item: 2 weapon_rocketlauncher
+ 11:18 Item: 7 weapon_shotgun
+ 11:18 Kill: 2 6 7: Wrack killed Razor by MOD_ROCKET_SPLASH
+ 11:18 Score: 2 23
+ 11:18 Item: 8 weapon_rocketlauncher
+ 11:19 Kill: 10 4 3: Ranger killed Uriel by MOD_MACHINEGUN
+ 11:19 Score: 10 11
+ 11:19 Item: 10 weapon_shotgun
+ 11:19 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+ 11:19 Score: 0 22
+ 11:19 Item: 0 weapon_shotgun
+ 11:19 Item: 3 weapon_shotgun
+ 11:19 Kill: 7 2 1: Bitterman killed Wrack by MOD_SHOTGUN
+ 11:19 Score: 7 14
+ 11:20 Item: 0 weapon_rocketlauncher
+ 11:20 Item: 7 item_health
+ 11:20 Kill: 8 7 6: Doom killed Bitterman by MOD_ROCKET
+ 11:20 Score: 8 17
+ 11:22 Item: 4 ammo_shells
+ 11:22 Kill: 3 6 1: ^1A^2n^3a^4r^5k^6i killed Razor by MOD_SHOTGUN
+ 11:22 Score: 3 18
+ 11:23 Kill: 8 0 7: Doom killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+ 11:23 Score: 8 18
+ 11:23 Item: 8 weapon_shotgun
+ 11:24 Item: 6 weapon_rocketlauncher
+ 11:24 Kill: 8 9 6: Doom killed ^6L^3akerbo^6T by MOD_ROCKET
+ 11:24 Score: 8 19
+ 11:25 Item: 5 item_health
+ 11:25 Kill: 4 10 3: Uriel killed Ranger by MOD_MACHINEGUN
+ 11:25 Score: 4 14
+ 11:26 Kill: 6 8 6: Razor killed Doom by MOD_ROCKET
+ 11:26 Score: 6 10
+ 11:27 Kill: 2 4 3: Wrack killed Uriel by MOD_MACHINEGUN
+ 11:27 Score: 2 24
+ 11:27 Item: 5 weapon_rocketlauncher
+ 11:29 Item: 8 ammo_rockets
+ 11:29 Kill: 6 5 7: Razor killed Gorre by MOD_ROCKET_SPLASH
+ 11:29 Score: 6 11
+ 11:30 Kill: 6 2 7: Razor killed Wrack by MOD_ROCKET_SPLASH
+ 11:30 Score: 6 12
+ 11:31 Kill: 3 0 1: ^1A^2n^3a^4r^5k^6i killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+ 11:31 Score: 3 19
+ 11:31 Item: 7 weapon_rocketlauncher
+ 11:33 Kill: 6 3 6: Razor killed ^1A^2n^3a^4r^5k^6i by MOD_ROCKET
+ 11:33 Score: 6 13
+ 11:33 Kill: 8 7 3: Doom killed Bitterman by MOD_MACHINEGUN
+ 11:33 Score: 8 20
+ 11:33 Item: 8 weapon_rocketlauncher
+ 11:33 Item: 0 weapon_rocketlauncher
+ 11:34 Item: 6 weapon_shotgun
+ 11:34 Kill: 6 8 6: Razor killed Doom by MOD_ROCKET
+ 11:34 Score: 6 14
+ 11:34 Kill: 6 6 7: Razor killed Razor by MOD_ROCKET_SPLASH
+ 11:34 Score: 6 13
+ 11:35 Item: 10 weapon_rocketlauncher
+ 11:35 Item: 10 weapon_rocketlauncher
+ 11:35 Kill: 10 4 6: Ranger killed Uriel by MOD_ROCKET
+ 11:35 Score: 10 12
+ 11:36 Item: 7 weapon_shotgun
+ 11:37 Kill: 10 5 6: Ranger killed Gorre by MOD_ROCKET
+ 11:37 Score: 10 13
+ 11:37 Item: 7 ammo_shells
+ 11:38 Kill: 2 9 3: Wrack killed ^6L^3akerbo^6T by MOD_MACHINEGUN
+ 11:38 Score: 2 25
+ 11:38 Exit: Fraglimit hit.
+ 11:38 score: 25  ping: 0  client: 2 Wrack
+ 11:38 score: 23  ping: 0  client: 9 ^6L^3akerbo^6T
+ 11:38 score: 22  ping: 0  client: 0 ^3Mr.^7Gauntlet
+ 11:38 score: 20  ping: 0  client: 8 Doom
+ 11:38 score: 19  ping: 0  client: 3 ^1A^2n^3a^4r^5k^6i
+ 11:38 score: 14  ping: 0  client: 4 Uriel
+ 11:38 score: 14  ping: 0  client: 7 Bitterman
+ 11:38 score: 13  ping: 0  client: 10 Ranger
+ 11:38 score: 13  ping: 0  client: 6 Razor
+ 11:38 score: 9  ping: 0  client: 5 Gorre
+ 11:38 Weapon_Stats: 0 Gauntlet:56:56:0:0 Given:3500 Recvd:2289 Armor:0 Health:200
+ 11:38 Weapon_Stats: 2 Machinegun:423:195:0:0 Shotgun:15:14:7:3 R.Launcher:33:23:9:7 Given:3505 Recvd:2791 Armor:0 Health:157
+ 11:38 Weapon_Stats: 3 Machinegun:301:124:0:0 Shotgun:22:17:7:3 R.Launcher:30:25:9:7 Given:3491 Recvd:2356 Armor:150 Health:25
+ 11:38 Weapon_Stats: 4 Machinegun:392:141:0:0 Shotgun:20:13:5:3 R.Launcher:31:19:4:3 Given:2907 Recvd:2973 Armor:0 Health:25
+ 11:38 Weapon_Stats: 5 Machinegun:456:200:0:0 Shotgun:25:16:6:6 R.Launcher:14:10:3:3 Given:2521 Recvd:3674 Armor:50 Health:75
+ 11:38 Weapon_Stats: 6 Machinegun:541:268:0:0 Shotgun:3:3:4:3 R.Launcher:29:19:6:6 Given:3108 Recvd:3488 Armor:100 Health:48
+ 11:38 Weapon_Stats: 7 Machinegun:437:177:0:0 Shotgun:32:26:8:6 R.Launcher:8:7:7:2 Given:2486 Recvd:2961 Armor:0 Health:172
+ 11:38 Weapon_Stats: 8 Machinegun:361:146:0:0 Shotgun:23:17:10:6 R.Launcher:21:15:10:6 Given:2596 Recvd:3229 Armor:50 Health:0
+ 11:38 Weapon_Stats: 9 Machinegun:647:305:0:0 Shotgun:16:13:7:3 R.Launcher:13:12:8:6 Given:3456 Recvd:3212 Armor:0 Health:0
+ 11:38 Weapon_Stats: 10 Machinegun:380:170:0:0 Shotgun:28:23:8:8 R.Launcher:15:10:7:5 Given:2741 Recvd:3338 Armor:50 Health:28
+ 11:54 ShutdownGame:
+ 11:54 ------------------------------------------------------------
+ 11:54 ------------------------------------------------------------
+ 11:54 InitGame: \bot_minplayers\10\fraglimit\20\g_gametype\0\mapname\q3dm2\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_dlURL\ftp://76.131.236.25/quake3\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\10\version\Q3 1.32e macos-aarch64 Jan 26 2025\Info\2W	3	 3          	3  3 3 3 3 3 3 3 3 3 	2W 6V 2W 2W 2W 2W 2W 2W 2W 2W 2W 	\Uptime\0:11:53\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3 DEFAULT.cfg 70f990036efe93700b61d9f403823b1b ^0/ ^7Q^13^7Plus^4 v3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+ 11:54 ServerTime: 20250225203246 20:32:46 (25 Feb 2025)
+ 11:54 TeamName: 1 ^1RED
+ 11:54 TeamName: 2 ^4BLUE
+ 11:54 Warmup:
+ 11:54 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 0 n\^3Mr.^7Gauntlet\t\0\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 ClientBegin: 0
+ 11:54 ClientConnect: 1 \ip\192.168.5.129\guid\09A452A4807B9C5E9213048814AF5982\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:54 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 2 n\Wrack\t\0\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 ClientBegin: 2
+ 11:54 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 3 n\^1A^2n^3a^4r^5k^6i\t\0\ts\0\model\anarki\hmodel\anarki\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 ClientBegin: 3
+ 11:54 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 4 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 ClientBegin: 4
+ 11:54 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 5 n\Gorre\t\0\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 ClientBegin: 5
+ 11:54 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 6 n\Razor\t\0\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 ClientBegin: 6
+ 11:54 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 7 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 ClientBegin: 7
+ 11:54 ClientConnect: 8 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 8 n\Doom\t\0\ts\0\model\doom\hmodel\doom\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 ClientBegin: 8
+ 11:54 ClientConnect: 9 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 9 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 Kill: 9 2 18: ^6L^3akerbo^6T killed Wrack by MOD_TELEFRAG
+ 11:54 ClientBegin: 9
+ 11:54 ClientConnect: 10 \ip\localhost\guid\\tld\\country\Unknown Location
+ 11:54 ClientUserinfoChanged: 10 n\Ranger\t\0\ts\0\model\ranger\hmodel\ranger\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 11:54 Kill: 10 0 18: Ranger killed ^3Mr.^7Gauntlet by MOD_TELEFRAG
+ 11:54 ClientBegin: 10
+ 11:54 Warmup:
+ 11:54 Item: 9 item_armor_shard
+ 11:55 Item: 9 item_armor_shard
+ 11:55 Item: 9 item_armor_shard
+ 11:55 Item: 9 item_armor_shard
+ 11:55 Item: 9 item_armor_shard
+ 11:55 Item: 4 weapon_shotgun
+ 11:56 Item: 5 ammo_shells
+ 11:56 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 11:56 ClientBegin: 1
+ 11:56 Item: 10 weapon_rocketlauncher
+ 11:57 Item: 8 weapon_plasmagun
+ 11:58 Item: 7 item_armor_body
+ 11:59 Item: 6 ammo_cells
+ 11:59 Item: 6 item_armor_combat
+ 12:00 Item: 9 weapon_shotgun
+ 12:01 Item: 0 item_health_large
+ 12:02 Kill: 10 5 7: Ranger killed Gorre by MOD_ROCKET_SPLASH
+ 12:02 Item: 3 item_health
+ 12:02 Item: 4 item_health
+ 12:03 Item: 4 item_health
+ 12:03 Item: 9 item_health
+ 12:03 Kill: 10 2 7: Ranger killed Wrack by MOD_ROCKET_SPLASH
+ 12:03 Item: 0 item_armor_shard
+ 12:03 Item: 0 item_armor_shard
+ 12:03 Item: 7 weapon_plasmagun
+ 12:06 Kill: 9 3 1: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+ 12:07 Item: 0 ammo_rockets
+ 12:08 Item: 0 ammo_shells
+ 12:08 Item: 9 weapon_rocketlauncher
+ 12:08 Kill: 7 2 8: Bitterman killed Wrack by MOD_PLASMA
+ 12:10 Item: 6 ammo_bullets
+ 12:10 Item: 5 weapon_shotgun
+ 12:10 Kill: 9 7 7: ^6L^3akerbo^6T killed Bitterman by MOD_ROCKET_SPLASH
+ 12:10 Item: 4 weapon_plasmagun
+ 12:11 Kill: 10 0 6: Ranger killed ^3Mr.^7Gauntlet by MOD_ROCKET
+ 12:11 Item: 9 weapon_plasmagun
+ 12:12 Kill: 4 3 8: Uriel killed ^1A^2n^3a^4r^5k^6i by MOD_PLASMA
+ 12:13 Kill: 9 5 7: ^6L^3akerbo^6T killed Gorre by MOD_ROCKET_SPLASH
+ 12:13 Item: 9 weapon_shotgun
+ 12:14 Kill: 10 6 3: Ranger killed Razor by MOD_MACHINEGUN
+ 12:14 Kill: 9 10 6: ^6L^3akerbo^6T killed Ranger by MOD_ROCKET
+ 12:14 Kill: 9 9 7: ^6L^3akerbo^6T killed ^6L^3akerbo^6T by MOD_ROCKET_SPLASH
+ 12:16 Item: 3 weapon_rocketlauncher
+ 12:17 Item: 5 weapon_rocketlauncher
+ 12:18 Item: 5 weapon_shotgun
+ 12:19 Item: 2 weapon_plasmagun
+ 12:22 Item: 4 item_armor_shard
+ 12:22 Item: 4 item_armor_shard
+ 12:22 Item: 4 item_armor_shard
+ 12:23 Item: 4 item_armor_shard
+ 12:23 Item: 4 item_armor_shard
+ 12:24 ShutdownGame:
+ 12:24 ------------------------------------------------------------
+ 12:24 ------------------------------------------------------------
+ 12:24 InitGame: \bot_minplayers\10\fraglimit\25\g_gametype\0\mapname\q3dm2\protocol\68\sv_allowDownload\1\sv_dlRate\500\sv_dlURL\ftp://76.131.236.25/quake3\sv_floodProtect\1\sv_hostname\House of ^1Pain\sv_maxRate\50000\sv_maxclients\16\sv_minRate\3000\sv_privateClients\0\sv_pure\1\timelimit\10\version\Q3 1.32e macos-aarch64 Jan 26 2025\Info\u	2	 3          	3  3 3 3 3 3 3 3 3 3 	u 71 u u u u u u u u u 	\Uptime\0:12:24\capturelimit\8\g_blueTeam\^4BLUE\g_needpass\0\g_redTeam\^1RED\gamename\excessiveplus\sv_punkbuster\0\xp_date\Jun 20 2014\xp_version\2.3 DEFAULT.cfg 70f990036efe93700b61d9f403823b1b ^0/ ^7Q^13^7Plus^4 v3\.Admins\serverADMINS\.DISCORD:\DISCORDserver\.Email\EMAILaddress\.MAPPACK:\mappackURL\.WEBSITE:\WEBSITE
+ 12:24 ServerTime: 20250225203316 20:33:16 (25 Feb 2025)
+ 12:24 TeamName: 1 ^1RED
+ 12:24 TeamName: 2 ^4BLUE
+ 12:24 ClientConnect: 0 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 0 n\^3Mr.^7Gauntlet\t\0\ts\0\model\tankjr/blue\hmodel\tankjr/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 0
+ 12:24 ClientConnect: 1 \ip\192.168.5.129\guid\09A452A4807B9C5E9213048814AF5982\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 1 n\ExcessivePlayer^s-away\t\3\ts\0\model\keel/pm\hmodel\keel/pm\c\5???5\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+ 12:24 ClientBegin: 1
+ 12:24 ClientConnect: 2 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 2 n\Wrack\t\0\ts\0\model\ranger/wrack\hmodel\ranger/wrack\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 2
+ 12:24 ClientConnect: 3 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 3 n\^1A^2n^3a^4r^5k^6i\t\0\ts\0\model\anarki\hmodel\anarki\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 3
+ 12:24 ClientConnect: 4 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 4 n\Uriel\t\0\ts\0\model\uriel\hmodel\uriel\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 4
+ 12:24 ClientConnect: 5 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 5 n\Gorre\t\0\ts\0\model\visor/gorre\hmodel\visor/gorre\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 5
+ 12:24 ClientConnect: 6 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 6 n\Razor\t\0\ts\0\model\razor\hmodel\razor\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 6
+ 12:24 ClientConnect: 7 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 7 n\Bitterman\t\0\ts\0\model\bitterman\hmodel\bitterman\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 7
+ 12:24 ClientConnect: 8 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 8 n\Doom\t\0\ts\0\model\doom\hmodel\doom\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 8
+ 12:24 ClientConnect: 9 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 9 n\^6L^3akerbo^6T\t\0\ts\0\model\visor/blue\hmodel\visor/blue\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 9
+ 12:24 ClientConnect: 10 \ip\localhost\guid\\tld\\country\Unknown Location
+ 12:24 ClientUserinfoChanged: 10 n\Ranger\t\0\ts\0\model\ranger\hmodel\ranger\c\\c1\4\c2\5\hc\100\w\0\l\0\skill\3\tt\0\tl\0
+ 12:24 ClientBegin: 10
+ 12:24 Kill: 9 3 18: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_TELEFRAG
+ 12:24 Score: 9 1
+ 12:24 Kill: 10 5 18: Ranger killed Gorre by MOD_TELEFRAG
+ 12:24 Score: 10 1
+ 12:24 Item: 7 item_armor_shard
+ 12:24 Item: 7 item_armor_shard
+ 12:25 Item: 7 item_armor_shard
+ 12:25 Item: 7 item_armor_shard
+ 12:25 Item: 2 weapon_shotgun
+ 12:26 Item: 4 ammo_shells
+ 12:26 Item: 7 item_armor_shard
+ 12:27 Item: 9 weapon_plasmagun
+ 12:28 Item: 8 item_health
+ 12:28 Item: 0 ammo_rockets
+ 12:28 Item: 0 ammo_shells
+ 12:29 Item: 8 item_health
+ 12:30 Kill: 9 5 8: ^6L^3akerbo^6T killed Gorre by MOD_PLASMA
+ 12:30 Score: 9 2
+ 12:31 Item: 4 item_armor_shard
+ 12:31 Item: 4 item_armor_shard
+ 12:32 Item: 8 weapon_shotgun
+ 12:32 Kill: 2 7 1: Wrack killed Bitterman by MOD_SHOTGUN
+ 12:32 Score: 2 1
+ 12:32 Kill: 9 10 8: ^6L^3akerbo^6T killed Ranger by MOD_PLASMA
+ 12:32 Score: 9 3
+ 12:32 Item: 2 weapon_rocketlauncher
+ 12:34 Kill: 5 3 3: Gorre killed ^1A^2n^3a^4r^5k^6i by MOD_MACHINEGUN
+ 12:34 Score: 5 1
+ 12:35 Item: 6 ammo_cells
+ 12:35 Item: 6 item_armor_combat
+ 12:35 Item: 8 item_armor_body
+ 12:37 Item: 4 weapon_shotgun
+ 12:37 Kill: 9 2 8: ^6L^3akerbo^6T killed Wrack by MOD_PLASMA
+ 12:37 Score: 9 4
+ 12:38 Item: 9 weapon_rocketlauncher
+ 12:38 Kill: 9 0 6: ^6L^3akerbo^6T killed ^3Mr.^7Gauntlet by MOD_ROCKET
+ 12:38 Score: 9 5
+ 12:38 Kill: 9 6 7: ^6L^3akerbo^6T killed Razor by MOD_ROCKET_SPLASH
+ 12:38 Score: 9 6
+ 12:40 Item: 5 weapon_rocketlauncher
+ 12:41 Item: 8 weapon_plasmagun
+ 12:41 Item: 6 ammo_bullets
+ 12:41 Item: 0 weapon_shotgun
+ 12:43 Kill: 9 0 7: ^6L^3akerbo^6T killed ^3Mr.^7Gauntlet by MOD_ROCKET_SPLASH
+ 12:43 Score: 9 7
+ 12:43 Kill: 4 9 1: Uriel killed ^6L^3akerbo^6T by MOD_SHOTGUN
+ 12:43 Score: 4 1
+ 12:45 Kill: 3 4 3: ^1A^2n^3a^4r^5k^6i killed Uriel by MOD_MACHINEGUN
+ 12:45 Score: 3 1
+ 12:45 Item: 3 weapon_rocketlauncher
+ 12:45 Item: 3 weapon_shotgun
+ 12:45 Kill: 5 8 6: Gorre killed Doom by MOD_ROCKET
+ 12:45 Score: 5 2
+ 12:46 Kill: 3 10 6: ^1A^2n^3a^4r^5k^6i killed Ranger by MOD_ROCKET
+ 12:46 Score: 3 2
+ 12:46 Kill: 5 0 6: Gorre killed ^3Mr.^7Gauntlet by MOD_ROCKET
+ 12:46 Score: 5 3
+ 12:47 Item: 6 weapon_shotgun
+ 12:47 Item: 7 weapon_plasmagun
+ 12:49 Kill: 7 9 8: Bitterman killed ^6L^3akerbo^6T by MOD_PLASMA
+ 12:49 Score: 7 1
+ 12:49 Item: 2 weapon_plasmagun
+ 12:51 Kill: 6 7 1: Razor killed Bitterman by MOD_SHOTGUN
+ 12:51 Score: 6 1
+ 12:51 Item: 6 weapon_plasmagun
+ 12:51 Item: 4 item_armor_shard
+ 12:51 Item: 4 item_armor_shard
+ 12:51 Item: 2 item_health_large
+ 12:51 Item: 4 item_armor_shard
+ 12:52 Item: 4 item_armor_shard
+ 12:52 Item: 4 item_armor_shard
+ 12:52 Item: 8 weapon_shotgun
+ 12:52 Kill: 0 10 2: ^3Mr.^7Gauntlet killed Ranger by MOD_GAUNTLET
+ 12:52 Score: 0 1
+ 12:53 Kill: 5 6 6: Gorre killed Razor by MOD_ROCKET
+ 12:53 Score: 5 4
+ 12:54 Item: 3 weapon_plasmagun
+ 12:55 Item: 10 weapon_plasmagun
+ 12:56 Kill: 5 5 7: Gorre killed Gorre by MOD_ROCKET_SPLASH
+ 12:56 Score: 5 3
+ 12:56 Kill: 8 0 1: Doom killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+ 12:56 Score: 8 1
+ 12:56 Kill: 2 3 8: Wrack killed ^1A^2n^3a^4r^5k^6i by MOD_PLASMA
+ 12:56 Score: 2 2
+ 12:57 Item: 8 weapon_rocketlauncher
+ 12:58 Item: 2 weapon_rocketlauncher
+ 12:58 Item: 7 weapon_shotgun
+ 12:59 Kill: 2 8 8: Wrack killed Doom by MOD_PLASMA
+ 12:59 Score: 2 3
+ 12:59 Item: 9 ammo_shells
+ 13:00 Kill: 10 4 8: Ranger killed Uriel by MOD_PLASMA
+ 13:00 Score: 10 2
+ 13:00 Item: 2 weapon_rocketlauncher
+ 13:00 Kill: 7 6 1: Bitterman killed Razor by MOD_SHOTGUN
+ 13:00 Score: 7 2
+ 13:01 Kill: 10 2 8: Ranger killed Wrack by MOD_PLASMA
+ 13:01 Score: 10 3
+ 13:02 Item: 9 weapon_plasmagun
+ 13:03 Kill: 10 0 8: Ranger killed ^3Mr.^7Gauntlet by MOD_PLASMA
+ 13:03 Score: 10 4
+ 13:03 Item: 5 weapon_shotgun
+ 13:03 Item: 3 weapon_plasmagun
+ 13:03 Kill: 7 8 1: Bitterman killed Doom by MOD_SHOTGUN
+ 13:03 Score: 7 3
+ 13:05 Item: 6 item_armor_shard
+ 13:05 Item: 6 item_armor_shard
+ 13:05 Kill: 9 10 9: ^6L^3akerbo^6T killed Ranger by MOD_PLASMA_SPLASH
+ 13:05 Score: 9 8
+ 13:06 Kill: 7 4 1: Bitterman killed Uriel by MOD_SHOTGUN
+ 13:06 Score: 7 4
+ 13:06 Kill: 5 7 1: Gorre killed Bitterman by MOD_SHOTGUN
+ 13:06 Score: 5 4
+ 13:07 Item: 0 weapon_plasmagun
+ 13:07 Item: 9 weapon_plasmagun
+ 13:07 Item: 8 weapon_shotgun
+ 13:08 Kill: 9 3 8: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_PLASMA
+ 13:08 Score: 9 9
+ 13:08 Item: 2 weapon_shotgun
+ 13:10 Kill: 10 8 3: Ranger killed Doom by MOD_MACHINEGUN
+ 13:10 Score: 10 5
+ 13:10 Item: 10 weapon_shotgun
+ 13:11 Item: 10 weapon_plasmagun
+ 13:11 Item: 2 item_health
+ 13:11 Item: 2 item_health
+ 13:14 Kill: 10 9 8: Ranger killed ^6L^3akerbo^6T by MOD_PLASMA
+ 13:14 Score: 10 6
+ 13:14 Kill: 2 4 1: Wrack killed Uriel by MOD_SHOTGUN
+ 13:14 Score: 2 4
+ 13:14 Item: 5 ammo_cells
+ 13:15 Item: 7 weapon_shotgun
+ 13:15 Item: 2 weapon_plasmagun
+ 13:15 Item: 5 item_armor_combat
+ 13:15 Kill: 5 2 1: Gorre killed Wrack by MOD_SHOTGUN
+ 13:15 Score: 5 5
+ 13:16 Item: 3 weapon_shotgun
+ 13:16 Kill: 3 6 1: ^1A^2n^3a^4r^5k^6i killed Razor by MOD_SHOTGUN
+ 13:16 Score: 3 3
+ 13:17 Item: 7 item_armor_shard
+ 13:17 Item: 7 item_armor_shard
+ 13:18 Item: 7 item_armor_shard
+ 13:18 Kill: 5 3 1: Gorre killed ^1A^2n^3a^4r^5k^6i by MOD_SHOTGUN
+ 13:18 Score: 5 6
+ 13:19 Kill: 7 10 1: Bitterman killed Ranger by MOD_SHOTGUN
+ 13:19 Score: 7 5
+ 13:19 Item: 6 weapon_shotgun
+ 13:20 Item: 4 weapon_plasmagun
+ 13:20 Item: 8 weapon_plasmagun
+ 13:20 Kill: 9 7 3: ^6L^3akerbo^6T killed Bitterman by MOD_MACHINEGUN
+ 13:20 Score: 9 10
+ 13:21 Item: 5 weapon_rocketlauncher
+ 13:21 Item: 6 item_armor_shard
+ 13:21 Item: 9 weapon_shotgun
+ 13:21 Item: 6 item_armor_shard
+ 13:21 Item: 8 weapon_shotgun
+ 13:22 Kill: 9 8 1: ^6L^3akerbo^6T killed Doom by MOD_SHOTGUN
+ 13:22 Score: 9 11
+ 13:22 Item: 9 weapon_plasmagun
+ 13:22 Kill: 0 9 2: ^3Mr.^7Gauntlet killed ^6L^3akerbo^6T by MOD_GAUNTLET
+ 13:22 Score: 0 2
+ 13:22 Item: 0 weapon_shotgun
+ 13:25 Kill: 6 0 1: Razor killed ^3Mr.^7Gauntlet by MOD_SHOTGUN
+ 13:25 Score: 6 2
+ 13:26 Item: 10 weapon_plasmagun
+ 13:26 Kill: 6 8 1: Razor killed Doom by MOD_SHOTGUN
+ 13:26 Score: 6 3
+ 13:26 Kill: 10 3 8: Ranger killed ^1A^2n^3a^4r^5k^6i by MOD_PLASMA
+ 13:26 Score: 10 7
+ 13:26 Kill: 5 6 6: Gorre killed Razor by MOD_ROCKET
+ 13:26 Score: 5 7
+ 13:28 Item: 4 weapon_shotgun
+ 13:28 Kill: 5 4 6: Gorre killed Uriel by MOD_ROCKET
+ 13:28 Score: 5 8
+ 13:29 Item: 9 weapon_plasmagun
+ 13:30 Item: 5 weapon_plasmagun
+ 13:30 Kill: 6 10 3: Razor killed Ranger by MOD_MACHINEGUN
+ 13:30 Score: 6 4
+ 13:30 Item: 2 weapon_rocketlauncher
+ 13:31 Item: 6 ammo_shells
+ 13:31 Kill: 5 7 7: Gorre killed Bitterman by MOD_ROCKET_SPLASH
+ 13:31 Score: 5 9
+ 13:31 Item: 9 weapon_plasmagun
+ 13:31 Item: 4 item_armor_shard
+ 13:31 Item: 4 item_armor_shard
+ 13:32 Kill: 9 3 8: ^6L^3akerbo^6T killed ^1A^2n^3a^4r^5k^6i by MOD_PLASMA
+ 13:32 Score: 9 12
+ 13:33 Kill: 5 8 7: Gorre killed Doom by MOD_ROCKET_SPLASH
+ 13:33 Score: 5 10
+ 13:34 Item: 10 weapon_shotgun
+ 13:35 Item: 7 weapon_plasmagun
+ 13:36 Kill: 2 0 6: Wrack killed ^3Mr.^7Gauntlet by MOD_ROCKET
+ 13:36 Score: 2 5
+ 13:36 Kill: 10 5 1: Ranger killed Gorre by MOD_SHOTGUN
+ 13:36 Score: 10 8
+ 13:37 Kill: 7 4 8: Bitterman killed Uriel by MOD_PLASMA
+ 13:37 Score: 7 6
+ 13:38 Item: 6 weapon_plasmagun
+ 13:38 Kill: 8 6 3: Doom killed Razor by MOD_MACHINEGUN
+ 13:38 Score: 8 2
+ 13:38 Item: 3 weapon_plasmagun
+ 13:39 Kill: 2 10 6: Wrack killed Ranger by MOD_ROCKET
+ 13:39 Score: 2 6
+ 13:39 Kill: 2 2 7: Wrack killed Wrack by MOD_ROCKET_SPLASH
+ 13:39 Score: 2 5
+ 13:39 Item: 0 ammo_bullets
+ 13:39 ShutdownGame:
+ 13:39 ------------------------------------------------------------

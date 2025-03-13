@@ -399,14 +399,22 @@ class VSPParserQ3A
     //change: special chars
     if ($this->config["xp_version"] <= 103) {
       // 1.03 special chars
-      $str = preg_replace("/\+([\x01-\x7F])#/e", "chr(ord('\\1') + 127)", $str);
+      $str = preg_replace_callback(
+        "/\+([\x01-\x7F])#/",
+        function ($matches) {
+            return chr(ord($matches[1]) + 127);
+        },
+        $str
+    );
     } else {
       // 1.04 special chars
-      $str = preg_replace(
-        "/#(#|[0-9a-f]{2})/ie",
-        "'\\1' == '#' ? '#' : chr(hexdec('\\1'))",
+      $str = preg_replace_callback(
+        "/#(#|[0-9a-f]{2})/i",
+        function ($matches) {
+            return $matches[1] == '#' ? '#' : chr(hexdec($matches[1]));
+        },
         $str
-      );
+    );
     }
     //endchange
     $defaultColors = [
@@ -437,10 +445,12 @@ class VSPParserQ3A
       $str
     );
     $str = preg_replace("/\^x([a-fA-F0-9]{6})/i", "`#\\1", $str);
-    $str = preg_replace(
-      "/\^([^\^<])/e",
-      "'`' . \$defaultColors[ord('\\1') % 8]",
-      $str
+    $str = preg_replace_callback(
+        "/\^([^\^<])/",
+        function ($matches) use ($defaultColors) {
+            return "`" . $defaultColors[ord($matches[1]) % 8];
+        },
+        $str
     );
     $str = strtr($str, $tmp);
     return $str;
